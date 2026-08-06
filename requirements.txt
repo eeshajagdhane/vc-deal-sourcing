@@ -1,0 +1,12 @@
+pandas
+numpy
+requests
+pyyaml
+tqdm
+rapidfuzz
+tldextract
+dateparser
+pycountry
+sentence-transformers
+scikit-learn
+flask

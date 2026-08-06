@@ -1,0 +1,25 @@
+{
+  "thesis": "AI infrastructure and developer tools; Pre-Seed to Series A; US-based",
+  "companies_scored": 438,
+  "eval_1_thesis_responsiveness": {
+    "contrast_industry": "Healthcare",
+    "share_in_top30_under_main_thesis": 0.0,
+    "share_in_top30_under_contrast_thesis": 0.433,
+    "interpretation": "the score correctly promotes the contrast industry when the thesis asks for it"
+  },
+  "eval_2_similar_retrieval": {
+    "same_industry_at_5": 0.769,
+    "random_baseline": 0.388,
+    "lift": 1.98
+  },
+  "dedupe_rate": 0.0,
+  "field_coverage": {
+    "website_domain": 0.909,
+    "description": 0.913,
+    "industry_primary": 1.0,
+    "hq_country": 0.975,
+    "last_round_type": 0.087,
+    "funding_total_usd": 0.078
+  },
+  "notes": "No real investor-decision or outcome labels exist in free public data, so we validate the system's behavior (thesis responsiveness + comp coherence) rather than realized returns. Swap in real decisions to measure precision/recall for real."
+}
