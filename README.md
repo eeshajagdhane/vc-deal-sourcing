@@ -1,14 +1,18 @@
 # VC Project — Free-Data Deal Sourcing Pipeline
 
+> **Original repository:** [eeshajagdhane/vc-deal-sourcing](https://github.com/eeshajagdhane/vc-deal-sourcing)  
+> **Author:** Eesha Jagdhane · © 2026 · All rights reserved.  
+> If you found this as a copy or fork, that GitHub URL is the original.
+
 ## What is this?
 
 This is a tool that helps a VC (venture capital) investor find promising startups to look
 at, using only **free, publicly available data** — no paid subscriptions (no PitchBook, no
 Harmonic, no Crunchbase Pro).
 
-It's a rebuild of an earlier project (in `~/Desktop/100x/`) that did the same job using
-paid data. This version proves the same idea works using only free sources, and documents
-exactly where every piece of data comes from so it's always clear what you're looking at.
+It's a rebuild of an earlier project that did the same job using paid data. This version
+proves the same idea works using only free sources, and documents exactly where every
+piece of data comes from so it's always clear what you're looking at.
 
 Everything lives in **one Jupyter notebook**, `vc_deal_sourcing.ipynb`, written to be
 readable by a non-technical person: every step has a plain-English explanation before the
