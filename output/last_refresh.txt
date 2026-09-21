@@ -1,3 +1,3 @@
-Last refreshed (UTC): not yet run on GitHub Actions
+Last refreshed (UTC): 2026-09-21 23:22:46
 Latest ranked list: output/companies_ranked.csv
 The personal-website write-up is a dated snapshot; this file is the live run.

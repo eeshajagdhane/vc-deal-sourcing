@@ -1,44 +1,44 @@
 {
   "query_company": {
-    "company_id": "c_e17b1b5154ed",
-    "name": "InsForge",
-    "score": 58.7
+    "company_id": "c_d5eb3a7246b2",
+    "name": "Robocurve",
+    "score": 59.04
   },
   "similar_companies": [
     {
-      "name": "Tolmo",
-      "industry_primary": "B2B",
-      "website_domain": "tolmo.com",
-      "score": 45.05,
-      "similarity": 0.6019999980926514
+      "name": "Agency Tool Company",
+      "industry_primary": "Industrials",
+      "website_domain": "agencytool.com",
+      "score": 41.61,
+      "similarity": 0.6570000052452087
     },
     {
-      "name": "IncidentFox",
-      "industry_primary": "B2B",
-      "website_domain": "incidentfox.ai",
-      "score": 45.23,
-      "similarity": 0.5860000252723694
+      "name": "Dreamscale Labs",
+      "industry_primary": "Industrials",
+      "website_domain": "dreamscalelabs.com",
+      "score": 43.31,
+      "similarity": 0.656000018119812
     },
     {
-      "name": "BentoLabs AI",
-      "industry_primary": "B2B",
-      "website_domain": "bentolabs.ai",
-      "score": 43.87,
-      "similarity": 0.5799999833106995
+      "name": "Twolabs",
+      "industry_primary": "Industrials",
+      "website_domain": "twolabs.ai",
+      "score": 40.96,
+      "similarity": 0.6510000228881836
     },
     {
-      "name": "Klaimee",
-      "industry_primary": "Fintech",
-      "website_domain": "klaimee.ai",
-      "score": 39.86,
-      "similarity": 0.5789999961853027
+      "name": "Praxis Robotics",
+      "industry_primary": "Industrials",
+      "website_domain": "praxisrobotics.io",
+      "score": 39.74,
+      "similarity": 0.6489999890327454
     },
     {
-      "name": "Archal",
+      "name": "DeepReach Inc.",
       "industry_primary": "B2B",
-      "website_domain": "archal.ai",
-      "score": 46.51,
-      "similarity": 0.5630000233650208
+      "website_domain": "deepreach.ai",
+      "score": 41.97,
+      "similarity": 0.6399999856948853
     }
   ]
 }
