@@ -1,0 +1,66 @@
+name: Weekly data refresh
+
+on:
+  schedule:
+    # Monday 14:00 UTC ≈ 7:00 AM Pacific
+    - cron: "0 14 * * 1"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    timeout-minutes: 90
+    steps:
+      - name: Check out the repo
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+          cache: pip
+
+      - name: Install packages
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.lock.txt jupyter nbconvert ipykernel
+
+      - name: Cache the scoring model
+        uses: actions/cache@v4
+        with:
+          path: ~/.cache/huggingface
+          key: huggingface-all-minilm-l6-v2
+
+      - name: Drop discovery caches so we fetch live data
+        run: rm -f data/raw/edgar_formd.json data/raw/yc_companies.json
+
+      - name: Run the pipeline
+        env:
+          SKIP_API: "1"
+        run: |
+          jupyter nbconvert --to notebook --execute vc_deal_sourcing.ipynb \
+            --output /tmp/vc_ran.ipynb \
+            --ExecutePreprocessor.timeout=5400
+
+      - name: Stamp the refresh time
+        run: |
+          {
+            echo "Last refreshed (UTC): $(date -u +'%Y-%m-%d %H:%M:%S')"
+            echo "Latest ranked list: output/companies_ranked.csv"
+            echo "The personal-website write-up is a dated snapshot; this file is the live run."
+          } > output/last_refresh.txt
+
+      - name: Commit updated data
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add output/ data/raw/
+          if git diff --staged --quiet; then
+            echo "No data changes this week."
+            exit 0
+          fi
+          git commit -m "Refresh deal-sourcing snapshot (weekly)"
+          git push
