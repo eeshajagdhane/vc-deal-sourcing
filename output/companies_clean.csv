@@ -1,48 +1,93 @@
 company_id,name,website_domain,description,industry_primary,verticals,year_founded,hq_city,hq_state,hq_country,funding_total_usd,last_round_type,last_round_size_usd,last_round_date,filing_count,source
-c_fe0fa87b244e,"Typewriter Therapeutics, Inc.",,,Biotechnology,,2022.0,CAMBRIDGE,MA,US,56299999.0,Later,56299999.0,2026-09-21,1,edgar
-c_9c4ae0859b32,Galvix Recovery Solutions Corp,,,Other Health Care,,2026.0,FAIRHOPE,AL,US,750000.0,Seed,750000.0,2026-09-21,1,edgar
-c_020c7ceaa639,"Medallion Racing VI, LLC",,,Other,,2026.0,NICHOLASVILLE,KY,US,,Seed,,2026-09-21,1,edgar
-c_f4379640551a,"FLI Twin Oaks Holdings, LLC",,,Other,,2026.0,GREENVILLE,SC,US,5000000.0,Early,5000000.0,2026-09-21,1,edgar
-c_ad7303ab6173,ReachBenefits 01-15 LLC,,,Other Technology,,2026.0,FLOWER MOUND,TX,US,75000000.0,Later,75000000.0,2026-09-21,1,edgar
-c_e90fae6e2cf7,"Fresenius Medical Care Will Clayton, LLC",,,Other Health Care,,2025.0,WALTHAM,MA,US,3789426.0,Early,3789426.0,2026-09-21,1,edgar
-c_5d38be9e57fb,Oberon Technology Holdings Inc.,,,Other Technology,,2026.0,SANTA MONICA,CA,US,5000000.0,Early,5000000.0,2026-09-21,1,edgar
-c_1ff08f9bf36c,"Parallel Robotics, Inc.",,,Other Technology,,2026.0,ANN ARBOR,MI,US,11310187.0,Early,11310187.0,2026-09-21,1,edgar
-c_732aa0af5137,"Build HABU, Inc.",,,Other,,2026.0,PHOENIX,AZ,US,1126000.0,Seed,1126000.0,2026-09-21,1,edgar
-c_435bcbd9b1c2,Sai Narke Enterprises Ltd,,,Business Services,,2026.0,ST PETER PORT,Y7,US,4500000.0,Early,4500000.0,2026-09-21,1,edgar
-c_c149857ba8f9,"FairAppeal, Inc.",,,Other Technology,,2026.0,CAMDEN,DE,US,,Seed,,2026-09-21,1,edgar
-c_01b330851b16,"Change Agent AI, Inc.",,,Other Technology,,2024.0,Herndon,VA,US,1797500.0,Seed,1797500.0,2026-09-21,1,edgar
-c_c03636582eb3,Meca Industries Corp,,,Other Health Care,,2026.0,Middletown,NJ,US,212500.0,Pre-Seed,212500.0,2026-09-21,2,edgar
-c_cf4fe5ffd36a,"Six68 Technologies, Inc.",,,Other Technology,,2026.0,DENVER,CO,US,5000000.0,Early,5000000.0,2026-09-21,1,edgar
-c_11ebc85a4a93,"Credit Gnomes, Inc.",,,Other Technology,,2023.0,LIBERTY LAKE,WA,US,,Seed,,2026-09-21,1,edgar
-c_e7cdadd9326e,Therapeutic Neuromodulation Systems LLC,,,Biotechnology,,,METAIRIE,LA,US,5000000.0,Early,5000000.0,2026-09-21,1,edgar
-c_632cea50c934,"APOLLO AI LAB, CO.",,,Computers,,2026.0,SAN FRANCISCO,CA,US,,Seed,,2026-09-21,1,edgar
-c_dbca5647a919,Viva Gold Corp.,,,Other,,,LANGLEY,A1,US,1901323.0,Seed,1901323.0,2026-09-21,1,edgar
-c_d6bdc4817906,"Laser Light Holdings, Ltd",,,Telecommunications,,2023.0,Reston,VA,US,150000000.0,Later,150000000.0,2026-09-21,1,edgar
-c_6211627c4b19,Gaingels Coast Pay LLC,,,Other,,2026.0,BURLINGTON,VT,US,72727.0,Pre-Seed,72727.0,2026-09-21,1,edgar
-c_ea86c2051637,Exep Atlantic Inc.,,,Other,,2026.0,NEW YORK,NY,US,57054.0,Pre-Seed,57054.0,2026-09-21,1,edgar
-c_f1bf3aca6d10,Gaingels Reflect Orbital LLC,,,Other,,2026.0,BURLINGTON,VT,US,475011.0,Pre-Seed,475011.0,2026-09-21,1,edgar
-c_ac97f759d21a,"Functional Longevity Labs, Inc.",,,Other Health Care,,2024.0,EASTON,MD,US,1000000.0,Seed,1000000.0,2026-09-21,1,edgar
-c_29b1365c3a9f,"Rebel Audio, Inc.",,,Other Technology,,2025.0,FRANKLIN,TN,US,14150000.0,Early,14150000.0,2026-09-21,1,edgar
-c_4a7c64db1830,Them3 Labs Inc.,,,Other Technology,,2026.0,BOYNTON BEACH,FL,US,,Seed,,2026-09-21,1,edgar
-c_f9c951793209,Monocacy Therapeutics Inc.,,,Biotechnology,,2025.0,MONROVIA,MD,US,49.0,Pre-Seed,49.0,2026-09-21,1,edgar
-c_eef1086c794d,"Paralign Health, Inc.",,,Other Technology,,2023.0,NEW YORK,NY,US,300000.0,Pre-Seed,300000.0,2026-09-21,1,edgar
-c_a22e5b9944d3,"Inquire, Inc.",,,Other,,2025.0,FALLS CHURCH,VA,US,5000000.0,Early,5000000.0,2026-09-21,1,edgar
-c_dea5ef553a36,"Disputed, Inc.",,,Other Technology,,2023.0,WASHOUGAL,WA,US,,Seed,,2026-09-21,1,edgar
-c_aa463d478a07,Next Wave Partners LLC,,,Business Services,,,LAS VEGAS,NV,US,500000.0,Seed,500000.0,2026-09-21,1,edgar
-c_7044557fac37,"3Helix, Inc.",,,Biotechnology,,2023.0,SALT LAKE CITY,UT,US,10000000.0,Early,10000000.0,2026-09-21,1,edgar
-c_1d0f66be246e,iQure Pharma Inc.,,,Other,,,SKILLMAN,NJ,US,4000000.0,Early,4000000.0,2026-09-21,1,edgar
-c_9dca0e464a48,"Renovo Concepts, Inc.",,,Other Health Care,,,SAN ANTONIO,TX,US,10050000.0,Early,10050000.0,2026-09-21,1,edgar
-c_86fe859fd4f3,"Avery Therapeutics, Inc.",,,Biotechnology,,,TUCSON,AZ,US,15400000.0,Later,15400000.0,2026-09-21,1,edgar
-c_63db4673e044,"NEXT10, INC",,,Other,,,GREEN VALLEY,AZ,US,25000000.0,Later,25000000.0,2026-09-21,1,edgar
-c_218fc706ca01,Shoot 360 Inc.,,,Other,,,VANCOUVER,WA,US,6000000.0,Early,6000000.0,2026-09-21,1,edgar
-c_2ac254a9cb39,Golden Arrow Resources Corp,,,Other,,,Vancouver,A1,US,1305355.0,Seed,1305355.0,2026-09-21,1,edgar
-c_0f507fda58f9,Lexaria Bioscience Corp.,,,Biotechnology,,,KELOWNA,A1,US,113492.0,Pre-Seed,113492.0,2026-09-21,1,edgar
-c_c1646fef3769,"BioStem Technologies, Inc.",,,Biotechnology,,,POMPANO BEACH,FL,US,40000000.0,Later,40000000.0,2026-09-21,1,edgar
-c_9426351dea44,"Tenon Medical, Inc.",,,Other Health Care,,,LOS GATOS,CA,US,4308510.0,Early,4308510.0,2026-09-21,1,edgar
-c_b267c7701cfb,"Wellness Credit, LLC",,,Business Services,,2026.0,FRANKLIN,TN,US,1000000.0,Seed,1000000.0,2026-09-21,1,edgar
-c_ce7326f89992,"Jupiter Biomedical Research, Inc.",,,Biotechnology,,,PALM BEACH GARDENS,FL,US,1000000.0,Seed,1000000.0,2026-09-21,1,edgar
-c_cf52fdfa0ff8,Maple Gold Mines Ltd.,,,Other,,,VANCOUVER,A1,US,428022.0,Pre-Seed,428022.0,2026-09-21,1,edgar
-c_3f9b7ea79e15,North Sky Metals Corp.,,,Other,,2023.0,WHITE ROCK,A1,US,129634.0,Pre-Seed,129634.0,2026-09-21,1,edgar
+c_a42d5c994d43,"Circlz Labs, Inc.",,,Other Technology,,2026.0,SAN FRANCISCO,CA,US,100000.0,Pre-Seed,100000.0,2026-09-28,1,edgar
+c_e221c0d232dc,"Xact Bio, Inc.",,,Biotechnology,,2024.0,BOSTON,MA,US,17999997.0,Later,17999997.0,2026-09-28,1,edgar
+c_f69ae9867d24,Myotis Inc.,,,Other Technology,,2025.0,HAMILTON,OH,US,500000.0,Seed,500000.0,2026-09-28,2,edgar
+c_f36eb1dbbbaf,Laurentide Therapeutics Inc.,,,Pharmaceuticals,,2026.0,ATLANTA,GA,US,100000.0,Pre-Seed,100000.0,2026-09-28,1,edgar
+c_1b8ceac6ee42,"Pace Pharmaceuticals, Inc.",,,Biotechnology,,2024.0,CUPERTINO,CA,US,,Seed,,2026-09-28,1,edgar
+c_3f31d77d0792,"Astramir, Inc.",,,Other Technology,,2026.0,LAS VEGAS,NV,US,5000000.0,Early,5000000.0,2026-09-28,1,edgar
+c_393c3bd19e47,GSG Emerald Coast Growers Holdings LLC,,,Other,,2026.0,CHICAGO,IL,US,4550000.0,Early,4550000.0,2026-09-28,1,edgar
+c_bbe03b8070bd,Coda AI Inc,,,Computers,,2026.0,BELLEVUE,WA,US,4000000.0,Early,4000000.0,2026-09-28,1,edgar
+c_648fe29cf199,FULL STOP HOLDINGS LLC,,,Other,,2026.0,MIAMI,FL,US,1000000.0,Seed,1000000.0,2026-09-28,1,edgar
+c_e78d7ee3a252,Sydney Collective LLC,,,Business Services,,2026.0,KALISPELL,MT,US,,Seed,,2026-09-28,1,edgar
+c_6fcc39771f85,SoberSphere Inc,,,Other Technology,,2025.0,PALM DESERT,CA,US,500000.0,Seed,500000.0,2026-09-28,1,edgar
+c_54d6994e040e,"Emmi Health, Inc",,,Other Health Care,,2026.0,New York,NY,US,250000.0,Pre-Seed,250000.0,2026-09-28,1,edgar
+c_82d841fb9a4d,Aran Operations LLC,,,Other,,2026.0,NEW YORK,NY,US,550000.0,Seed,550000.0,2026-09-28,1,edgar
+c_3b831a27d698,"Q-Immune, Inc.",,,Biotechnology,,2025.0,SEATTLE,WA,US,1000000.0,Seed,1000000.0,2026-09-28,1,edgar
+c_c9085108ca77,SPRTN TECHNOLOGIES INC.,,,Other Technology,,2026.0,RALEIGH,NC,US,1000000.0,Seed,1000000.0,2026-09-28,1,edgar
+c_54924d8b6e10,CSignum Ltd.,,,Other Technology,,,WEST LOTHIAN,X0,US,760500.0,Seed,760500.0,2026-09-28,1,edgar
+c_ce6795e6db48,Cargo Produce Inc.,,,Other Technology,,2023.0,AUSTIN,TX,US,5535046.0,Early,5535046.0,2026-09-28,1,edgar
+c_b2f20660d838,"Pictura Bio US, Inc.",,,Biotechnology,,2026.0,OXFORD,X0,US,17460598.0,Later,15000000.0,2026-09-28,2,edgar
+c_21a654921b12,"APCP Mezz Holdco, LLC",,,Other,,2026.0,MIAMI,FL,US,3700000.0,Early,3700000.0,2026-09-28,1,edgar
+c_6962e8dc038d,National Mechanical Services Inc,,,Other,,2025.0,ATLANTA,GA,US,,Seed,,2026-09-28,1,edgar
+c_477469a19436,"iodyne, Inc.",,,Other Technology,,2026.0,WILMINGTON,DE,US,12000000.0,Early,12000000.0,2026-09-28,1,edgar
+c_4b78a86487f8,"Chuck Waste, Inc",,,Other Technology,,2023.0,WALKER,MI,US,7000000.0,Early,7000000.0,2026-09-28,1,edgar
+c_46994da9cabb,Gaingels AllJoined LLC,,,Other,,2026.0,BURLINGTON,VT,US,152564.0,Pre-Seed,152564.0,2026-09-28,1,edgar
+c_7f0fceb4487e,"Catalyst Sports Ventures, LLC",,,Other,,2025.0,TAMPA,FL,US,500000.0,Seed,500000.0,2026-09-28,1,edgar
+c_d89c587e00ca,"Kavia AI, Inc.",,,Other Technology,,2025.0,SAN FRANCISCO,CA,US,3050003.0,Early,3050003.0,2026-09-28,1,edgar
+c_a2b99893c0a4,Brand Harbor Inc.,,,Other Technology,,2025.0,SAINT PETERSBURG,FL,US,2500000.0,Seed,2500000.0,2026-09-28,1,edgar
+c_5e640db9365a,GLEAN IP HOLDINGS INC.,,,Other,,2025.0,SCARSDALE,NY,US,1100000.0,Seed,1100000.0,2026-09-28,1,edgar
+c_ce7a747aec91,"Vertical Longevity Pharmaceuticals, Inc.",,,Biotechnology,,2024.0,IRVINE,CA,US,110000.0,Pre-Seed,110000.0,2026-09-28,1,edgar
+c_ea5bd18161d3,CVP Ease Investors LLC,,,Other,,2026.0,NEW YORK,NY,US,,Seed,,2026-09-28,1,edgar
+c_41e2f82c7967,Audivi AI Inc.,,,Other Technology,,2024.0,MILFORD,OH,US,1500000.0,Seed,1500000.0,2026-09-28,1,edgar
+c_f69f81da184f,Exa Labs Inc.,,,Other Technology,,,San Francisco,CA,US,247488419.0,Later,247488419.0,2026-09-28,1,edgar
+c_374c63527d26,Left Main REI Inc.,,,Other Technology,,2025.0,CHARLOTTE,NC,US,5500000.0,Early,5500000.0,2026-09-28,1,edgar
+c_ab559e3c70e7,"Evia Bio, Inc.",,,Biotechnology,,,Minneapolis,MN,US,5453532.0,Early,5453532.0,2026-09-28,1,edgar
+c_cf038eb22d04,Sunflower Labs Inc.,,,Other Technology,,,SAN CARLOS,CA,US,20000000.0,Later,20000000.0,2026-09-28,1,edgar
+c_7e3428a0a06f,ARGO GRAPHENE SOLUTIONS CORP.,,,Other,,,VANCOUVER,A1,US,13025.0,Pre-Seed,13025.0,2026-09-28,1,edgar
+c_35348996ed10,"ZIN BOATS, INC.",,,Other,,,SEATTLE,WA,US,5000000.0,Early,5000000.0,2026-09-28,1,edgar
+c_75c720cefb3b,"Helios Sports, Inc.",,,Other,,,PORTSMOUTH,NH,US,2000000.0,Seed,2000000.0,2026-09-28,1,edgar
+c_ee94c91a30bd,YM Corp,,,Other,,2025.0,SEWELL,NJ,US,1000000.0,Seed,1000000.0,2026-09-28,1,edgar
+c_d1508d6cae4c,"PFARADIGM Health, Inc.",,,Other Health Care,,2026.0,PALO ALTO,CA,US,56053611.0,Later,56053611.0,2026-09-28,1,edgar
+c_aea3f83ce850,"Alpfa Medical, Inc.",,,Other Health Care,,2021.0,PALO ALTO,CA,US,100268055.0,Later,100268055.0,2026-09-28,1,edgar
+c_64d0d1941041,RSI Holdings Group LLC,,,Other,,2026.0,WILMINGTON,DE,US,1000000.0,Seed,1000000.0,2026-09-28,1,edgar
+c_d60e53758123,SANXUARY LLC,,,Other Technology,,2026.0,CHEYENNE,WY,US,500000.0,Seed,500000.0,2026-09-25,1,edgar
+c_2b281b7581e5,Prospera International Inc.,,,Other,,2026.0,AUSTIN,TX,US,,Seed,,2026-09-25,1,edgar
+c_daf68c21c92e,TDAA Technologies Corp.,,,Other Technology,,2023.0,COLORADO SPRINGS,CO,US,1175000.0,Seed,1175000.0,2026-09-25,1,edgar
+c_976b4f6e519a,"HOME Movie, LLC",,,Other,,2024.0,VALLEY VILLAGE,CA,US,1000000.0,Seed,1000000.0,2026-09-25,1,edgar
+c_55037d794b2b,"Camp Hope, LLC",,,Other,,2026.0,MIDDLETOWN,CT,US,700000.0,Seed,700000.0,2026-09-25,1,edgar
+c_bfd1684d360d,"Standard Thinking, Inc.",,,Computers,,2026.0,SEOUL,M5,US,50000.0,Pre-Seed,50000.0,2026-09-25,1,edgar
+c_1833341f0f51,"Series A, a series of AI Frontier Technology Fund II LLC",,,Other,,2026.0,NEW YORK,NY,US,,Seed,,2026-09-25,1,edgar
+c_e46712015130,"Lo Siento Spirits, Inc.",,,Manufacturing,,2026.0,VENICE,CA,US,5000000.0,Early,5000000.0,2026-09-25,1,edgar
+c_795e82f51571,Three Bucks Two Bags One LLC,,,Other,,2026.0,NEW YORK,NY,US,22000000.0,Later,22000000.0,2026-09-25,1,edgar
+c_cca3683b805d,Neander Inc.,,,Other Technology,,2026.0,SAN FRANCISCO,CA,US,2700000.0,Seed,2700000.0,2026-09-25,1,edgar
+c_6edbb2edefed,Teyon AI Inc.,,,Computers,,2026.0,PALO ALTO,CA,US,1.0,Pre-Seed,1.0,2026-09-25,1,edgar
+c_afc6bf530d8f,OpenHack,openhack.com,"OpenHack is an always on AI Security Engineer. OpenHack understands your business, system design and developer intent like a real security engineer. It ingests all this context to find the hardest vulnerabilities through AI codebase scanning, AI pentesting and Supply Chain Security. It verifies and prioritizes vulnerabilities automatically, and filters out false positives like a real security engineer drastically reducing overhead.",B2B,"Artificial Intelligence, DevSecOps, Cybersecurity",,San Francisco,CA,US,,,,,0,yc
+c_beb9bfad0180,OpEra,operatechnologies.com,"Opera (YC F26) is an automated operations research lab applying mathematics and AI to optimize operations for retail, logistics, manufacturing, agriculture and more, delivering solutions for VP of Operations, supply chain leaders, plant managers and COOs to improve efficiency and decision-making.",B2B,"Logistics, Manufacturing, Supply Chain, Operations, AI",,New York City,NY,US,,,,,0,yc
+c_96a0bbc73d69,Spine,joinspine.ai,"Spine runs benefits, payroll, and compliance for startups for free.
+
+We do the work by giving teams dedicated senior HR and benefits specialists who operate on top of their existing HRIS (Rippling, Deel, Gusto, ADP). We help companies find better-fit, more cost-effective health plans - reducing healthcare costs by around 15% on average - while running payroll, handling compliance, managing open enrollment, and supporting employees directly in Slack.
+
+30+ startups already use Spine to lower healthcare costs and take hours of back-office work off their teams. Learn more at joinspine.ai",B2B,"Human Resources, Insurance, SMB",,San Francisco,CA,US,,,,,0,yc
+c_2f418e265834,MusicArena,musicarena.io,https://musicarena.io/,B2B,"Music, Crowdsourcing, AI",,San Francisco,CA,US,,,,,0,yc
+c_911f228a3e85,Hue,hue.run,"Hue turns production usage of agents into repeatable tests that preserve the tools, data, and state behind the real run. As AI agents take on real work, their behavior depends increasingly on the nuances of the world around them. With Hue, teams can test and improve their agents under conditions that mimic real usage.",B2B,Artificial Intelligence,,San Francisco,CA,US,,,,,0,yc
+c_756521ec8de8,Rhem Labs,rhem.ai,Rhem is building the connected hardware and data platform for care at home. ,Healthcare,"Robotics, Health & Wellness, Consumer Products",,San Francisco,CA,US,,,,,0,yc
+c_576d78c45705,Mantle,,"Mantle is a full-stack field service company that deploys, fixes and maintains machines for the companies that build them. We're not a marketplace or software tool, we own uptime directly to provide better, more reliable service without burdening your engineers on support calls. 
+
+$500B+ a year is spent to keep machines running in the US, we're coming for all of it.
+",Industrials,"Hardware, Robotics, AI, Industrial",,San Francisco,CA,US,,,,,0,yc
+c_301f1002b730,Ageospatial,ageospatial.com,"Ageospatial helps organizations value the risk on their physical assets (properties, land, infrastructure) remotely using satellite imagery.
+
+97% of commercial properties are never physically inspected because it's too slow and expensive. So insurers price risk based on what the client or broker tells them, and about half the time at least one of those records is wrong. The result is mispricing, fraud, and an estimated $36B in premium leakage every year in the US alone, which gets exposed the moment a disaster hits.
+
+Upload a list of addresses and their GeoAI reads satellite and street-level imagery, maps, real-time data, public records and the insurer's own data to determine what's really there, which natural and human hazards surround it, what changed over time, and which properties are worth inspecting. Each property becomes a living record that underwriting, claims and pricing teams can trace from past to present. Ageospatial deploys inside carriers and MGAs as an AI-native service, so insurers get outcomes delivered.",Fintech,"Artificial Intelligence, Computer Vision, Insurance",,San Francisco,CA,US,,,,,0,yc
+c_c6f5be83a8ef,Elimentary,elimentary.com,"Elimentary’s is building AI agents that can run middle/back-office operations for private capital managers, starting with structured credit. Most private capital managers focus primarily on sourcing and capital deployment. Meanwhile post-investment operations receive step-child treatment. While AUMs have increased exponentially over the last decade, operations continue to be painfully supported by humans using spreadsheets and emails. Things have started to break leading to investment write-offs, fines, penalties, and sometimes lost LP relationships. 
+
+Our agents can run these operations (borrowing base calcs, cracking loan tapes, NAV calculations, etc.) end to end autonomously. For one of our customers, our agents cut a 20-hour ops process to 30 minutes. It saved 90% of the manual hours, translating to $150k in annual savings.",Fintech,"FinOps, Enterprise",,New York City,NY,US,,,,,0,yc
+c_77127384afc5,Pendulum Robotics,pendulumrobotics.com,"We design and manufacture high-mix drone motors and robotic actuators in LA.
+
+DJI, Apple, and Ford don't settle for OTS components. Likewise, the teams that win the Western robotics market will build seamless machines from tightly integrated software and hardware. 
+
+Pendulum Robotics designs motors and actuators around your robot's unique form factor and mission - then we rapidly bring them to life with proprietary software and tooling geared for high-mix machining and assembly. Our first factory in LA can create thousands of motors per month up to 200mm OD.
+
+We're doing for motion components what 3D printing has done for structural components. Hardware teams that can build and iterate at the speed of software will create elegant, reliable, ROI-positive robots and win massive markets.",Industrials,"Hard Tech, Robotics, Drones, Manufacturing, Electronics",,Los Angeles,CA,US,,,,,0,yc
+c_da8222507b31,Cyclon,cyclon.ai,"Cyclon is rebuilding the phone around AI. Instead of opening apps and tapping through screens, you tell your phone what you want and it does it for you. With one touch, you can spin up AI agents to control your phone or handle tasks in the background. AI isn’t just inside an app - it’s the phone itself.",Consumer,"Artificial Intelligence, Hardware, Consumer",,San Francisco,CA,US,,,,,0,yc
+c_0c41ee9121db,Asim,asim-group.com,Enable robots to operate safely in the real world.,Industrials,"Deep Learning, Robotic Process Automation, Robotics",,San Francisco,CA,US,,,,,0,yc
+c_f7a12005e856,TrueMile,truemile.ai,"TrueMile is an AI operations team for midsize trucking carriers. Our agents work together to source freight, plan the week, assign loads to drivers, and keep customers, drivers, and dispatchers informed.
+
+When a driver calls out, a truck gets delayed, or a load cancels, TrueMile coordinates the assignments, plan changes, and communications that follow. It connects to the systems carriers already use, with dispatchers in control.",B2B,"AIOps, Machine Learning, Logistics, Data Science",,San Francisco,CA,US,,,,,0,yc
+c_661c91c54121,Grep AI,grep.ai,"Grep AI is the fastest way to create, optimize, and deploy agents for high-stakes, research-intensive knowledge work you can't afford to get wrong. Our agents are used by both prosumers and global enterprises such as Airwallex, IG, Worldpay, and Citizens Bank.",B2B,"Fintech, AI",,San Francisco,CA,US,,,,,0,yc
+c_2ccfa8744b90,Bryel,bryel.ai,Devin for AI Research Engineering,B2B,"B2B, AI",,San Francisco,CA,US,,,,,0,yc
+c_4badc3cef387,Decent,decent.com,"Decent is an AI-native health insurance brokerage. We quote every available option, like Kayak for health plans, and then monitor and act on claims data continuously to make your plan better and cheaper year-round.",Fintech,"AIOps, Fintech, Health Tech, B2B, Health Insurance",,San Francisco,CA,US,,,,,0,yc
 c_8c4c3d0b2b2d,GrayPass,graypass.org,"Login tells you who signed in. GrayPass verifies the expected person is still in control before consequential actions happen. We use cognitive biometrics like typing rhythm, cursor movement, scrolling, and response timing alongside session and device context to continuously establish assurance.
 
 Before actions like approving a payment, changing admin permissions, exporting sensitive data, or letting an AI agent act on someone’s behalf, GrayPass returns allow, challenge, hold, or deny and produces signed proof tied to that action.",B2B,"Biometrics, Identity, Infrastructure",,Toronto,ON,Non-US,,,,,0,yc
@@ -51,7 +96,7 @@ c_4ec1cfdd94f5,Faraday,faradaycompute.com,"Industrial aOS between humans, agents
 c_d401a6cc67d7,Shire Intelligence,shireintelligence.com,"Shire is an AI floor manager for full-service restaurants, running on the cameras they already have. It sees what a great manager sees: a guest ready to order, a table waiting on the check, a four-top that needs clearing, a server that is double booked. Then it acts, alerting staff in the moment and seating each new party with the server who has room. A POS only knows what gets typed into it. Shire knows what is happening in the room, so wait-time quotes, staffing, and pricing run on real turn times.",Consumer,"Deep Learning, Food Tech",,Myrtle Beach,SC,US,,,,,0,yc
 c_03f7fd20715a,Volaren Inc.,volaren.ai,"Every great investment starts as an idea about the world. Institutions have teams of analysts turning those ideas into positions. Volaren is that team, processing data through fundamentals and quantitative models that can be personalized with AI.
 
-Turn your views into trades, portfolios, and strategies, or co-invest alongside top traders and hedge funds. Volaren stays with you from there, showing you what's actually driving each position and what it means for your next move.",Fintech,"Fintech, Marketplace, Finance, Creator Economy, AI",,New York City,NY,US,,,,,0,yc
+Turn your views into trades, portfolios, and back-testable frameworks and strategies, and Volaren stays with you from there, showing you what's actually driving each position and what it means for your next move.",Fintech,"Artificial Intelligence, Fintech, Marketplace, Finance, Creator Economy",,New York City,NY,US,,,,,0,yc
 c_229b1f002d5e,Streamline Systems,streamlinesystems.ltd,"Streamline Systems is building the replacement for GPS. 
 
 Satellite positioning has become the single point of failure for almost every modern system, both military and civil. We've built the replacement. A drop-in module that integrates with existing Ardupilot, INAV and PX4 flight controllers, with demonstrated satellite-independent autonomous flight and GPS handoff. We're currently working with commercial and military end users to deploy the capability.",Industrials,"Autonomous Delivery, Drones, Navigation",,,,,,,,,0,yc
@@ -70,7 +115,7 @@ Energy is a $10 trillion market. The infrastructure layer doesn't exist yet.
 We are building it.",Industrials,"Artificial Intelligence, Solar Power, Infrastructure",,Munich,BY,Non-US,,,,,0,yc
 c_0b7f4c6ea623,Applied Kinetics,appliedkinetics.ai,"Applied Kinetics builds and deploys specialized AI employees to handle the coordination work behind America's energy and data center buildout. Our agents chase suppliers, track equipment approvals and delivery dates, and flag delays so project teams can keep critical equipment moving without hunting for updates across emails and spreadsheets.",B2B,"B2B, Supply Chain, Procurement, Energy, AI",,San Francisco,CA,US,,,,,0,yc
 c_6dbd39085f13,Inflection Space Systems,inflection-space.com,Inflection is building the industrial capacity to manufacture tens of thousands of spacecraft per year for next generation commercial and government space applications. Imagine a factory that looks like an Amazon fulfillment center instead of a NASA clean room.,Industrials,"Satellites, Manufacturing, Defense",,Los Angeles,CA,US,,,,,0,yc
-c_45edc2613552,Sintropix,sintropix.com,Autonomous accounting platform for global companies. We close your books and give you financial clarity while you run your business. ,B2B,"Fintech, B2B, AI",,Santiago,Santiago Metropolitan Region,Chile,,,,,0,yc
+c_45edc2613552,Sintropix,sintropix.com,Autonomous accounting platform for global companies. We close your books and give you financial clarity while you run your business. ,B2B,"Artificial Intelligence, Fintech, B2B",,Santiago,Santiago Metropolitan Region,Chile,,,,,0,yc
 c_26613dd487d2,River,meetriver.com,AI made software engineers 100x more productive. We're bringing that same transformation to knowledge workers with the AI desktop.,B2B,"Artificial Intelligence, Productivity",,San Francisco,CA,US,,,,,0,yc
 c_b06ef00ce61d,Oasive,oasive.ai,"Oasive helps bond investors figure out which bonds are rich or cheap, and why. We give portfolio managers, traders, analysts and investment advisers a team of AI analysts, combining fixed income research, proprietary quantitative models and scenario analysis to move from trade idea to decision in minutes. Our focus is Macro and Rates Research and MBS, with munis, ABS and corporates next.",Fintech,"FinOps, Fintech, Investments",,San Francisco,CA,US,,,,,0,yc
 c_dffe79f7bf38,Nxtcure Labs,nxtcure.com,"Reinventing medicine from lab to drug discovery.
@@ -81,7 +126,7 @@ c_613d71042255,Perit.AI,perit.ai,Expert-led data and RL platform for AI labs,B2B
 c_886a957a7357,Hickory & Company,hickory.co,Hickory offers agentic compliance and BSA for banks and fintechs,B2B,"Fintech, SaaS, Compliance",,Salt Lake City,UT,US,,,,,0,yc
 c_60ed8ef890db,Lark,trylark.ai,"Lark builds specialized AI agents that automate manual workflows for wholesale distributors. Our agents work with existing ERP systems, learning from each distributor’s historical data and the team’s decisions. Together, these agents can run a distributor’s entire operation.",Industrials,"Artificial Intelligence, B2B, Supply Chain",,San Francisco,CA,US,,,,,0,yc
 c_d46821c96027,Memorable,memorable.sh,reducing agent reasoning into a graph search problem,B2B,"Developer Tools, Infrastructure",,San Francisco,CA,US,,,,,0,yc
-c_feb30f4e5f80,gbrain.io,gbrain.io,"Like ChatGPT or Claude, but it runs in the cloud, remembers everything you give it, and comes loaded with skills. Hand it a job tonight and read the answer in the morning. Use it on your own, or with your whole team.",B2B,"Workflow Automation, Automation, AI Assistant",,San Francisco,CA,US,,,,,0,yc
+c_feb30f4e5f80,GBrain,gbrain.io,"Like ChatGPT or Claude, but it runs in the cloud, remembers everything you give it, and comes loaded with skills. Hand it a job tonight and read the answer in the morning. Use it on your own, or with your whole team.",B2B,"Workflow Automation, Automation, AI Assistant",,San Francisco,CA,US,,,,,0,yc
 c_62d2bfdba2df,Ignition Benefits,ignitionbenefits.com,"Ignition is an AI-native employee benefits brokerage for companies with under 200 employees. Health insurance is one of the largest line items these companies carry, and employers absorb 15 to 40% rate increases year after year without ever seeing their own numbers. We have rebuilt the sales and back office to be AI-first. This market represents about $500B of market cap, and those businesses have not fundamentally changed in over 50 years. While scaling Plated, I wore every HR hat from doing payroll myself, to managing a PEO, to eventually hiring an employee benefits broker on our way to 1,500 employees. We wasted over $4M on benefits over 5 years, and I'm building Ignition to help companies under 200 employees avoid making my mistakes.",Fintech,"Health Insurance, Insurance, AI",,Los Angeles,CA,US,,,,,0,yc
 c_fa9255301543,Agent 37,agent37.com,"* Ready to Use Instantly: Skip the complex server setup. It comes pre loaded with top AI Agents (like Claude Code and Hermes) so your agents can start working immediately.
 
@@ -110,17 +155,15 @@ c_2664c5f200b5,Micora,micora.com,"Micora builds a solar-farm-in-a-box that can b
 As demand from data centers, advanced manufacturing, and electrification strains existing power infrastructure, the ability to deploy substantial generation quickly is becoming increasingly valuable and unavailable. We are the only company that services utility-scale power needs in weeks. ",Industrials,"Energy Storage, Robotics, Solar Power",,San Francisco,CA,US,,,,,0,yc
 c_5bf0f080eb4a,Deploy,deployrobotics.co,Deploy's core belief is that robots should be useful. Getting a generalist robot to do real work is fundamentally the same problem across industries. We build everything between the model and the task to bring generalist robots to the businesses that actually need them.,Industrials,Robotics,,San Francisco,CA,US,,,,,0,yc
 c_41f97ea704c3,DeepMark,deepmark.me,"DeepMark is the authentication layer for AI voice. When an AI agent speaks, we embed a compact, machine-readable ID directly into the audio, not in metadata, which gets stripped the moment a file is touched. The ID resolves to a trust record, so a bank, a call center, or the person on the line can verify in real time who the agent is.",B2B,"Deep Learning, B2B, Cybersecurity",,San Francisco,CA,US,,,,,0,yc
-c_2451f5519b98,Mirrors,runmirrors.com,"Mirrors provides regression testing for AI agents.
+c_2451f5519b98,Mirrors,runmirrors.com,"Your agent worked fine yesterday. Today it loops, drops context, or calls a tool with the wrong arguments, and you find out from a user.
 
-Teams shipping agents constantly change prompts, models, and tools, and there's no way to test any of it. Agents call bespoke internal tools and APIs no test framework can reproduce, so most teams ship on vibes.
+Teams shipping AI agents change prompts, models, and tools constantly, and the same failures keep coming back in production: context loss, loops, broken tool calls, regressions after a refactor.
 
-Mirrors rebuilds the tools your agent calls from your own production traces, then replays real sessions against every change before it merges. You see which tool calls changed, which arguments moved, and where state landed differently. And when something fails, we tell you whether your agent regressed or something upstream moved.
+Mirrors learns from your agent's production traces. It captures what worked and what failed in real sessions, then delivers the fix at runtime. Instead of waiting for someone to notice a regression and patch it by hand, the fix is applied automatically, so the same error never happens twice.
 
-Built for teams whose agents take irreversible actions. Refunds, record updates, outbound email.
-
-Runs in your CI on every PR.",B2B,"Artificial Intelligence, Developer Tools, SaaS, B2B, DevOps",,San Francisco,CA,US,,,,,0,yc
+Built for teams whose agents do things they can't undo, like issuing refunds, updating customer records, or sending outbound email.",B2B,"AIOps, Artificial Intelligence, Developer Tools, SaaS, B2B",,San Francisco,CA,US,,,,,0,yc
 c_27884123f93a,Shepherd Robotics,shepherdrobotics.ai,"Shepherd Robotics builds general purpose robots for skilled physical work across AI infrastructure and advanced manufacturing. Our robots are powered by robot foundation models and use modular, flexible hardware designed to adapt to different environments and tasks.
-We train our systems on a combination of real world and simulation data so they can learn complex manipulation skills and generalize across workflows. We are starting with tasks such as data center construction and operations, cable and wire manufacturing, wire harness assembly, kitting, and factory packaging, where traditional automation struggles with variability, dexterity, and changing environments.",Industrials,"Hardware, Robotics, Manufacturing, Automation, AI",,San Francisco,CA,US,,,,,0,yc
+We train our systems on a combination of real world and simulation data so they can learn complex manipulation skills and generalize across workflows. We are starting with tasks such as data center construction and operations, cable and wire manufacturing, wire harness assembly, kitting, and factory packaging, where traditional automation struggles with variability, dexterity, and changing environments.",Industrials,"Artificial Intelligence, Hardware, Robotics, Manufacturing, Automation",,San Francisco,CA,US,,,,,0,yc
 c_af1068f3de3c,Sona8,sona8.com,"Sona8 is a voice agent that talks to every employee about how their work gets done. Consulting, transformation and corporate development teams spend a large part of every project on stakeholder interviews and stakeholder alignment, and still only hear from a small share of the people affected.
 
 Each employee gets a link and talks to the agent for about 20 minutes. The agent asks follow-up questions, for example why a step is still done by hand or who else is involved. From the conversations we build process maps and a list of the problems people described, by site and team.
@@ -150,7 +193,7 @@ c_841ef458829b,Hopper,withhopper.com,"Hopper post-trains STT, TTS, and speech LL
 c_06b6b2be3c69,OnePatch,onepatch.dev,"OnePatch is a forward-deployed AI SRE. It instruments your services, watches how they actually behave in prod, catches incidents, and drives each one to resolution. Think Datadog, except it doesn't stop at telling you something broke: it keeps going until the fix is shipped.",B2B,"DevOps, Automation, AI",,San Francisco,CA,US,,,,,0,yc
 c_9fdf7e729a05,Orca Aerospace,orcaaerospace.com,"At Orca, we are focused on creating the future of spacecraft operations by moving control onto the vehicle. By allowing AI models to control the satellite using deterministic tooling, we are able to achieve the same holistic, high-quality decisions on ""what"" to do to carry out a mission while maintaining the safety of systems that decide ""how"" to execute it. ",Industrials,"AIOps, Space Exploration, Satellites",,San Francisco,CA,US,,,,,0,yc
 c_7b46cef9e1cb,Maritime,maritime.sh,"Maritime is cloud infrastructure for AI agents. We help companies give every customer an agent running in its own isolated, persistent computer, starting at $1 per agent per month. Maritime handles hosting, scaling, and sleep/wake automatically, so developers can run thousands of agents without managing the infrastructure.",B2B,"Developer Tools, Cloud Computing, Infrastructure",,San Francisco,CA,US,,,,,0,yc
-c_78876fc9e997,Asakana,asakana.co,"Restaurants send orders to food distributors by email, text, and photo. Someone at the distributor retypes every one of them into the ERP. Asakana does that entry instead: orders land in the ERP already entered, and anything unclear goes to a person before it goes in. Live at US seafood distributors today, returning 40%+ of order-desk time to selling. Founded by a seafood distributor and a Gemini builder.",Consumer,"SaaS, Food & Beverage",,San Francisco,CA,US,,,,,0,yc
+c_78876fc9e997,Asakana,asakana.co,"Restaurants send orders to food distributors by email, text, and photo. Someone at the distributor retypes every one of them into the ERP. Asakana does that entry instead: orders land in the ERP already entered, and anything unclear goes to a person before it goes in. Live at US seafood distributors today, returning 40%+ of order-desk time to selling. Founded by a seafood distributor and a Gemini builder.",B2B,"SaaS, Food & Beverage",,San Francisco,CA,US,,,,,0,yc
 c_78f28febf085,Boat,boat.dev,"**Problem**
 
 Humans used to need laptops to do their work. Now they prompt agents instead, and those agents need computers too: always-on, in large quantities, and with unlimited capabilities. 
@@ -175,7 +218,7 @@ c_967175654a24,Frontier Computing,frontier.site,"Frontier is first to grow biolo
 
 While academia has traditionally been limited to ~1M neurons in vitro, Frontier has built a pathway to scale to 100M+ neurons by circumventing traditional scaling challenges in biological culture, demonstrating this strategy's functionality by training a biological brain using this scaling primitive to play Frogger.
 
-Frontier is now growing exascale compute clusters to produce substrates capable of long-horizon language reasoning while operating at much higher sample efficiencies than traditional architectures, and collocating memory with compute to enable significantly larger parameter counts than would be tractable for training within traditional compute clusters.",Industrials,"Artificial Intelligence, Hard Tech, Hardware",,London,England,United Kingdom,,,,,0,yc
+Frontier is now growing exascale compute clusters to produce substrates capable of long-horizon language reasoning while operating at much higher sample efficiencies than traditional architectures, and collocating memory with compute to enable significantly larger parameter counts than would be tractable for training within traditional compute clusters.",Industrials,"Hard Tech, Hardware, AI",,London,England,United Kingdom,,,,,0,yc
 c_ba6c00a7fa89,Nodus Compute,nodus-compute.ai,Intelligent Cloud for AI workloads,B2B,"Artificial Intelligence, Infrastructure",,San Francisco,CA,US,,,,,0,yc
 c_26d562bed664,The Subvocal Company,subvocal.company,"We're building a silent speech wearable that lets you talk to your computer at the speed of voice, but silently and completely imperceptibly to everyone around you.",Consumer,Hard Tech,,San Francisco,CA,US,,,,,0,yc
 c_70d24bc2da27,Workers IO,workers.io,"Workers IO verifies your entire system across millions of interleaving, faults, and timings to find the exact conditions that break the software properties you care about.
@@ -194,14 +237,14 @@ Or click your Mac notch anytime and say ""finish this for me."" Sidekick takes o
 
 On-device inference at this scale was supposed to be impossible: devices too slow, and models too dumb. So we built the stack ourselves: a custom LiteRT-LM fork (KV-cache reuse, speculative decoding, custom k-quants) that runs nightly on 8 GB Macs. The user's hardware does ~90% of the compute, and their own ChatGPT or Claude subscription does the rest, so our marginal cost is ~$0, and our servers store nothing.
 
-We soft-launched late July with one Reddit post: top of r/macapps, 2,000+ users in 48 hours, $0 marketing. Free and open source for consumers; the same engine on the work stack (Slack, Granola, Linear, Notion) becomes the enterprise business.
+Our alpha soft-launch was top post of the month on r/macapps (688 upvotes), and we launched to 4000+ users in our first week with $0 marketing. We're free and open source for consumers; the same engine on the work stack (Slack, Granola, Linear, Notion) is the enterprise business.
 
 Sentient OS raised ~$1M in pre-seed, backed by YC, Afore, and the a16z Speedrun scout fund.",B2B,"Artificial Intelligence, Productivity, AI",,San Francisco,CA,US,,,,,0,yc
 c_2aaea0cfb7f2,Ethos Space Resources,ethos-space.com,"Ethos makes silicon on the Moon to power terawatt scale data centers. The Moon's surface is 21% silicon. We melt and electrolyze the lunar surface to make raw materials for solar panels. With solar panels made from the Moon, the constraint that limits data center scaling and everything else in space is gone.",Industrials,"Hard Tech, Exascale Computing, Energy, Aerospace, Industrial",,Los Angeles,CA,US,,,,,0,yc
 c_6da532a994a2,Spectre Intelligence,spectreintelligence.ai,Spectre Intelligence is a neotrading firm. We create AI traders instead of hiring human ones. Currently trading semis + bio.,Fintech,"Biotech, Investing, Trading, Semiconductors",,San Francisco,CA,US,,,,,0,yc
 c_d626c5f90ec4,Edgerun,edgerun.com,"Edgerun builds military exoskeletons. The first product is a 10-pound hip system that fits over existing kit and doubles a soldier’s range. Since April 2026, Edgerun built over a dozen iterations of their product through continuous field tests with Ukrainian fighters and secured $150M+ in LOIs. Founder David Venegas previously co-founded Durin (autonomous mining robotics) and worked at Stoke Space (at 19) and Hadrian. He is a high-school dropout, state-championship runner, adventure athlete, and pilot. Edgerun is a Y Combinator company backed by General H.R. McMaster, Cyan Banister, Joshua Steinman and Jason Miller. edgerun.com",Industrials,"Hard Tech, Hardware, Robotics, Defense",,San Francisco,CA,US,,,,,0,yc
 c_64ccfb8fa121,Covera,covera-agents.com,"Covera builds AI agents for insurance brokers. Our ready-to-use agents take over the day-to-day servicing work: submission intake, carrier quoting, quote comparison, claims handling, past-due collections, and account rounding. That means brokers can spend their time advising and selling clients instead of doing data entry. We work with agencies of every size and connect natively to the tools they already use.",Fintech,AIOps,,San Francisco,CA,US,,,,,0,yc
-c_ceff8a7094a3,Allia Health,allia.health,"Allia is the first full-stack, AI-native clinical group for mental health. We bring independent practices into one national clinical group that can deliver, measure, and improve care at scale - 600+ providers (350+ therapists, 200+ nurses & doctors, 30+ psychologists) across 70 sites in 32 states, plus telehealth nationwide. Every clinician runs on a single intelligent system of record. And, that intelligence coupled with scale unlocks what no single practice could achieve alone. ",Healthcare,"Healthcare, Mental Health, AI",,New York City,NY,US,,,,,0,yc
+c_ceff8a7094a3,Allia Health,allia.health,"Allia is the first full-stack, AI-native clinical group for mental health. We bring independent practices into one national clinical group that can deliver, measure, and improve care at scale .",Healthcare,"Healthcare, Mental Health, AI",,San Francisco,CA,US,,,,,0,yc
 c_4cd992444411,Capveon,capveon.ai,Turning infrastructure demand into action ,Government,GovTech,,San Francisco,CA,US,,,,,0,yc
 c_c78bc14f44c0,Studio,trystudio.ai,"Studio is a simulation lab studying how humans and societies respond to new ideas, and is building the first software models that can accurately predict that response. Instead of creating digital twins of survey respondents, Studio builds live market models of interconnected audience segments from real, traceable consumer-behavior data. Our simulations match live KPI outcomes like revenue and purchase behavior with over 97% accuracy for consumer-facing enterprises, higher than any synthetic panel, simulation lab, or traditional market research.",B2B,"Artificial Intelligence, B2B, Analytics, Market Research, AI",,San Francisco,CA,US,,,,,0,yc
 c_fa302772dabc,OpenTag,tryopentag.com,"OpenTag is an AI coworker in your Slack with full context on your company. It answers questions and takes real work off your plate. It also keeps your wiki up to date automatically, so knowledge never goes stale.",B2B,"AIOps, Artificial Intelligence, B2B, Workflow Automation, Enterprise Software",,San Francisco,CA,US,,,,,0,yc
@@ -218,7 +261,7 @@ c_14dda8bada1b,Marker,onmarker.com,"Marker is a platform for rebuilding enterpri
 c_5ced4c5b990e,antimattr,antimattr.one,"antimattr builds a voice-first hardware interface for human-agent interaction that includes a ring and a pair of earphones. Designed to make more of your voice, the ring can record and summarise your conversations, capture thoughts on the go, or control your agents. The earphones use proprietary voice isolation technology to block out background noise entirely, so you can take a clear call from a loud pub or dictate with real accuracy.
 
 Reserve early access at https://www.antimattr.one/project-mnemosyne
-[use code YC at checkout]",Consumer,"Hardware, Consumer, AI",,San Francisco,CA,US,,,,,0,yc
+[use code YC at checkout]",Consumer,"Artificial Intelligence, Hardware, Consumer",,San Francisco,CA,US,,,,,0,yc
 c_174227cb7ab4,Aerogen Systems,aerogensystems.com,"We are building the future of chip manufacturing.
 
 Chips are more advanced than ever, and the features inside them keep getting smaller. But the cleanroom infrastructure supporting their manufacture has not scaled at the same pace. Intel, TSMC, Samsung, and others spend billions building and operating massive cleanrooms, only to isolate their most advanced wafers from the surrounding facility as much as possible.
@@ -233,7 +276,7 @@ The Aerogen Systems Cleanpipe is an ultra-clean interconnect infrastructure that
 
 Talos cleans the tools. Cleanpipe connects them. Eventually, we delete the cleanroom and build more advanced chips, at greater scale, with radically less infrastructure. With cleanpipes connecting tools, chip fabs can exist anywhere.",Industrials,"Hard Tech, B2B, Manufacturing, Semiconductors",,Ann Arbor,MI,US,,,,,0,yc
 c_a2abf405cc48,Veeza AI,veeza.ai,"Billions of people need tourist visas to travel the world. We use AI agents to prepare applications, verify documents, secure appointments, and handle the visa process end to end.
-",Consumer,"AIOps, Artificial Intelligence, Consumer",,,,,,,,,0,yc
+",Consumer,"AIOps, Consumer, AI",,,,,,,,,0,yc
 c_f9faeccebd3f,Lightfield,trylightfield.ai,"Lightfield connects to a company’s email, chat, and business systems and does the legal work before it reaches the legal team. It gathers context, applies company policies and past decisions, and presents the completed work to in-house counsel for approval.",B2B,"SaaS, B2B, Legal",,San Francisco,CA,US,,,,,0,yc
 c_5fc68ad7bf9f,"Vernius Systems, Inc.",vernius.systems,"We make mass-deployable radars for unmanned systems. Our first product is Archimedes, a radar seeker that finds and locks onto targets, enabling autonomous intercept on any drone. We have over $580M in LOIs for Archimedes, across some of the largest defense primes in Ukraine, the EU, and the Middle East.
 
@@ -284,7 +327,7 @@ c_023c61ecac90,Mochi,mochi.tv,"Mochi is an app to watch and create anime microdr
 c_7e07a1ffd490,Meteoric,meteoric.earth,Meteoric is building drones that clear clouds over solar farms and ultimately weaken severe storms and hurricanes.,Industrials,"Hard Tech, Renewable Energy, ClimateTech",,San Francisco,CA,US,,,,,0,yc
 c_b7cb29ca2b8a,PRINCEPS,princeps.dev,"PRINCEPS is the first purpose-built insurance company for the trillion-dollar compute buildout. We underwrite SLA, GPU residual value, and outage risk, and price the coverage that unlocks cheaper financing for data centers and neoclouds.",Fintech,"Artificial Intelligence, Fintech, Machine Learning, Insurance",,London,England,United Kingdom,,,,,0,yc
 c_568404e942af,Mentlio,mentlio.com,"Mentlio an applied research lab focused on optimizing AI ROI for the modern enterprise. We help engineering teams draw a line between their AI spend and delivery, per engineer. We then cut ~30% of AI spend via Mentlio's custom ML-based intelligent routing, context optimization, and prompt compression.",B2B,"Developer Tools, Machine Learning, Productivity",,San Francisco,CA,US,,,,,0,yc
-c_59c974deb649,Pennant,getpennant.ai,"Led by former institutional proxy voters and technologists with a collective 20+ years of experience, Pennant gives institutional investors, public companies, and corporate advisors voting and governance intelligence to act on their own principles at scale.",Fintech,"Fintech, Investing, AI",,New York City,NY,US,,,,,0,yc
+c_59c974deb649,Pennant,getpennant.ai,"Led by former institutional proxy voters and technologists with a collective 20+ years of experience, Pennant gives institutional investors, public companies, and corporate advisors voting and governance intelligence to act on their own principles at scale.",Fintech,"Artificial Intelligence, Fintech, Investing",,New York City,NY,US,,,,,0,yc
 c_763cd7e5e279,Familiar,thefamiliarlab.com,"Familiar is the Neolab for world translation. Dubbing into 30 languages. Now with Familiar, the same actor's performance is preserved instead of a mismatched voice over a mismatched face. One model does the voice, the lips, and the scene together, with identity permanence and scene & world understanding. Built by the researchers who pioneered joint audio-visual human models. ",B2B,"Generative AI, B2B, Entertainment, AI",,Toronto,ON,Non-US,,,,,0,yc
 c_617544366f8c,DeepReach Inc.,deepreach.ai,"Physical AI — robots and world models — is bottlenecked on one thing: diverse,
 real-world data at massive scale showing how humans actually do work in the
@@ -329,9 +372,9 @@ This lets Robot Labs train their robots using GPUs instead of relying on human c
 In unseen and hard to replicate environments, this is the only path to getting ANY training data.",Industrials,"Artificial Intelligence, Hard Tech, Robotics, Virtual Reality, Data Labeling",,San Francisco,CA,US,,,,,0,yc
 c_72de60c3c5fc,Tenor,heytenor.com,"Tenor enables domain experts to build, run, and scale AI-native service businesses.
 The next generation of successful white-collar service businesses will be built and scaled around AI from the ground up. These companies need more than capable AI models. They need a company data layer, governed workflows that AI can execute, and harnesses that continuously improve based on outcomes and decision checkpoints. Tenor is building this infrastructure so millions of AI-native businesses don’t have to build it themselves.",B2B,"Artificial Intelligence, B2B, Automation",,San Francisco,CA,US,,,,,0,yc
-c_6f903dd6a14c,Simulithic,simulithic.com,"Simulithic continuously uses your production product like your real users do. We learn representative user journeys and run agents across different devices, browsers, account states, and environments to find failures that traditional automated tests miss. When something breaks, we reproduce it and alert engineering before they hear about it from a customer.",B2B,Artificial Intelligence,,San Francisco,CA,US,,,,,0,yc
+c_6f903dd6a14c,Simulithic,simulithic.com,"Simulithic continuously uses your production product like your real users do. We learn representative user journeys and run user simulations across different devices, browsers, account states, and environments to find failures that traditional scripted end-to-end tests miss. ",B2B,AI,,San Francisco,CA,US,,,,,0,yc
 c_9d294759bbe0,twentyfour26,twentyfour26.com,"twentyfour26 builds autonomous CNC machining cells for rapid prototyping, so hardware teams can iterate with software speed.",Industrials,"Robotics, Manufacturing, Industrial",,San Francisco,CA,US,,,,,0,yc
-c_b8aa4254c7f7,Vorelios,vorelios.com,"Engineering is bottlenecked by slow, costly simulations. We're fixing that by building foundation models that learn physics end-to-end and deliver the same results in seconds, at a fraction of the cost.",B2B,"Hard Tech, B2B, AI",,San Francisco,CA,US,,,,,0,yc
+c_b8aa4254c7f7,Vorelios,vorelios.com,"Engineering is bottlenecked by slow, costly simulations. We're fixing that by building foundation models that learn physics end-to-end and deliver the same results in seconds, at a fraction of the cost.",B2B,"Artificial Intelligence, Hard Tech, B2B",,San Francisco,CA,US,,,,,0,yc
 c_cb260165625a,Financial Datasets,financialdatasets.ai,"Financial Datasets is an applied AI research lab building search and data infrastructure for agents, starting with financial markets.
 
 We turn filings, company disclosures, and market data into structured, searchable information - helping agents find relevant facts, answer financial questions, and monitor markets in real time.
@@ -356,22 +399,22 @@ Delayed infrastructure projects hemorrhage $1B a week in the US alone - Pacific 
 Data centers are stuck for years waiting for power, while delayed construction sites across the world sit on unused interconnects, losing billions of dollars per week in interest on trillions of dollars of debt. Our pods deploy on those sites and generate revenue for them in days. They use diamond wafers in the cooling system so pods run anywhere on earth, even a desert. 
 
 We'll use the same mechanisms we're building today to deploy compute across the galaxy.
-",Industrials,"Fintech, Robotics, Space Exploration, Manufacturing, AI",,London,England,United Kingdom,,,,,0,yc
+",Industrials,"Fintech, Robotics, Space Exploration, Manufacturing, AI",,San Francisco,CA,US,,,,,0,yc
 c_f9a4a253da8c,Antropi Robotics,antropi.world,Autonomous CNC factories for faster hardware,Industrials,"Robotics, Manufacturing",,Bengaluru,KA,Non-US,,,,,0,yc
 c_6c2416810986,Erinys,erinys.ai,"Erinys provides the technology, intake, back office, and client acquisition needed to launch and scale an AI-native law firm. Lawyers own their firms and make every legal decision; Erinys handles everything around them.",B2B,"Artificial Intelligence, Legal, LegalTech",,San Francisco,CA,US,,,,,0,yc
-c_6f6cd30e2f71,Marengo,marengox.com,"Marengo is an AI-native engineering firm designing data centers in half the time and half the cost. We have $4M in design partnerships with two of the world's largest developers ($XB).
+c_6f6cd30e2f71,Marengo,marengox.com,"Marengo is the AI-native engineering firm automating engineering design, starting with data centers. We’ve generated $70K in revenue in our first month, with $4M in contracts to deliver.
 
 Marengo is backed by YC, Exor, Future Planet Capital, undisclosed $2B AUM family office, and other top-tier investors.
 
-Our team includes the former President & CEO of Saipem America ($3B+ P&L), former President of Exyte's Advanced Technology Facilities GBU ($6B+ P&L) and more.",Industrials,"Design, Energy, Architecture, AI",,San Francisco,CA,US,,,,,0,yc
+Our team includes the former President & CEO of Saipem America ($3B+ P&L), former President of Exyte's Advanced Technology Facilities GBU ($6B+ P&L) and more.",Industrials,"Construction, Design, Energy, AI",,San Francisco,CA,US,,,,,0,yc
 c_e278f386ca73,Prodigy Research,prodigy.markets,"Prodigy is the frontier AI trading research lab. We've trained the world's best foundation model for quantitative finance. We've already achieved more than 100% returns in live trading over the course of our YC batch, doubling our capital while major indices were flat. Our founders previously worked on a trading desk at Jane Street, trained frontier AI models at Google DeepMind and shipped cutting-edge AI at Apple to billions of customers. Join us as we use AI to solve the market.",Fintech,"Reinforcement Learning, Finance, Investing, Trading, AI",,San Francisco,CA,US,,,,,0,yc
 c_7339ad2a04f6,Dawn Industries,dawnxr.com,"VIM connects to the entire cell: PLCs, robots, CNC machines, sensors. When a cell faults, VIM finds the cause, stages the fix, and the operator approves with one click. When a part drifts, VIM catches it seconds after the cut, inside the machine, and recommends the correction. Recovery drops from 30 minutes to under two, saving more than $15,000 per fault in large factories.",Industrials,Artificial Intelligence,,San Francisco,CA,US,,,,,0,yc
-c_9bd1bad6f2f6,Hebbian Robotics,hebbianrobotics.com,"Hebbian Robotics builds APIs for robotics data teams to verify data quality for model training.  
+c_9bd1bad6f2f6,Hebbian Robotics,hebbianrobotics.com,"Hebbian Robotics automates data evaluation for physical AI and robotics.
 
 Our customers use us to build quality control pipelines in just a few lines of code, with custom models 10x faster and 8x cheaper than general foundation models. 
 
 https://hebbianrobotics.com/
-https://github.com/Hebbian-Robotics/hflow",Industrials,"Robotics, Data Science, Data Engineering, AI, Databases",,San Francisco,CA,US,,,,,0,yc
+https://github.com/Hebbian-Robotics/hflow",Industrials,"Artificial Intelligence, Robotics, Data Science, Data Engineering, Databases",,San Francisco,CA,US,,,,,0,yc
 c_0bf800c6240f,Audun,audun.co,Audun automates debt collection.,Fintech,"Artificial Intelligence, Fintech, Finance, AI",,Oslo,Oslo,Norway,,,,,0,yc
 c_b1dc253f3846,Qlo,getqlo.com,"Qlo builds AI agents to run commercial insurance underwriting. We start by fully automating the operational work around risk decisions, become the system of record, and earn autonomy workflow by workflow toward the autonomous AI underwriter.
 
@@ -390,7 +433,7 @@ c_c9e27a2cc132,Exosat,exosat.com,"Exosat is building thousands of low-cost commu
 We're starting off by selling connectivity to device OEMs and network operators, but will eventually use the distributed compute across our constellation to run low-latency inference for robots and autonomous vehicles in remote and rural areas anywhere on the planet.
 
 We've already signed hundreds of millions in LOIs to work with operators across Central Asia, Southeast Asia, and the Middle East, booked our first satellite launch next year, and hold an 11,000 satellite filing with the ITU to build the largest comms network outside of the U.S. and China.",Industrials,"Space Exploration, Satellites, Aerospace, Telecommunications, AI",,Singapore,Singapore,Singapore,,,,,0,yc
-c_76df228c18d3,Neuromorphic,neuromorphic.vision,"We are building robots that can work autonomously in existing wet labs. Unlike traditional lab automation, which requires dedicated equipment and fixed workflows, our robot moves between workstations, manipulates existing scientific equipment, transports lab materials, and executes experiments using the same lab infrastructure as a human technician. We make the robots easy to manage through natural interfaces like Slack, email, and phone. Our goal is to make deploying robots in wet labs as easy as onboarding a new employee, and to accelerate scientific research!",Industrials,"Artificial Intelligence, Hard Tech, Robotics, B2B, Biotech",,San Francisco,CA,US,,,,,0,yc
+c_76df228c18d3,Neuromorphic,neuromorphic.vision,"We are building robots that can work autonomously in existing wet labs. Unlike traditional lab automation, which requires dedicated equipment and fixed workflows, our robot moves between workstations, manipulates existing scientific equipment, transports lab materials, and executes experiments using the same lab infrastructure as a human technician. We make the robots easy to manage through natural interfaces like Slack, email, and phone. Our goal is to make deploying robots in wet labs as easy as onboarding a new employee, and to accelerate scientific research!",Industrials,"Hard Tech, Robotics, B2B, Biotech, AI",,San Francisco,CA,US,,,,,0,yc
 c_119bf710cd9b,herdr,herdr.dev,"Developers don't run one coding agent anymore. They run fleets of them — for hours, sometimes days — across laptops, servers, and sandboxes. Keeping track of that work is the new bottleneck: which agent is blocked, which one finished, which terminal is it in, and why did everything die when the laptop closed.
 
 Herdr is the open-source home for that work. A background server owns the agents' terminal sessions on each machine, so the work survives disconnects, closed lids, and dropped SSH. Herdr detects each agent and turns the chaos into an attention queue — working, blocked, done, across every project — so you look only when an agent needs you. Every client is just a view: the bundled terminal UI, SSH from another machine, your phone. Close one, open another; the work never stops.
@@ -404,7 +447,7 @@ It makes research on people & companies even deeper with specialized, source-bac
 c_1d6a8b63f92f,Arbital,arbital.xyz,"Arbital lets you trade perps, memes, stocks, and run market-making strategies from one place. In our first 7 months, 2,700 traders have traded $1.35B in volume through Arbital, and we're now doing $435M/month. 
 
 We're building towards a social, mobile-first trading app that brings tokenized equities, crypto, and perps to everyone.",Fintech,"Artificial Intelligence, Fintech, Crypto / Web3, Investing, Trading",,San Francisco,CA,US,,,,,0,yc
-c_4804b2d9710d,Agent FM,agentfm.ai,"Agent FM is a desktop app that gives engineers one group chat to hear and steer their coding agents. Instead of manually bouncing between different claude code and codex sessions, and combing through walls of text to monitor agents, engineers just tune in to Agent FM. Agents share important progress updates, blockers, assumptions, and decisions in the group chat. Engineers get live text and audio updates and respond right from the chat.",B2B,"Artificial Intelligence, Developer Tools, Productivity",,San Francisco,CA,US,,,,,0,yc
+c_8d626adcb48e,isoquant,isoquant.ai,"Self-optimizing inference cloud for faster, cheaper AI",B2B,AI,,San Francisco,CA,US,,,,,0,yc
 c_ff95e90a30e2,Chromie,chromie.dev,The intelligent operating system for government contracting. Built by former AI engineers and government officials.,B2B,"GovTech, Workflow Automation",,San Francisco,CA,US,,,,,0,yc
 c_9eb313ee7a02,Riften,riften.ai,"Intelligence will be the most valuable asset a company owns. Today, almost every company rents it.
 
@@ -471,7 +514,7 @@ c_b86d9e3574f0,Elite,elitehq.ai,"Elite builds AI voice agents that run the front
 Front offices are drowning in phone volume, so patients wait on hold, calls go unanswered, and staff get pulled away from care. Elite picks up every call, resolves the routine ones end to end, and escalates anything complex to the team with full context. It ships knowing the scheduling protocols of 18 specialties and writes back to more than 19 EHRs including Epic, athenahealth, eClinicalWorks, and ModMed. There is no rip-and-replace, it goes live in days, and every resolved patient interaction is what we charge for.
 
 Our starting point is healthcare. The mission is to rebuild the critical industries America runs on, including government, finance, insurance, and manufacturing, by deploying AI agents into the slow, manual workflows at their core.",Healthcare,"Healthcare, AI",,New York City,NY,US,,,,,0,yc
-c_db84ef9a722a,Luca IQ,lucaiq.com,Luca IQ is an API for deterministic tax calculation and an IRS Authorized e-filing engine - the foundation for accounting firms and fintechs building on tax.,B2B,"B2B, API, Infrastructure, AI",,San Francisco,CA,US,,,,,0,yc
+c_db84ef9a722a,Luca IQ,lucaiq.com,Luca IQ is an API for deterministic tax calculation and an IRS Authorized e-filing engine - the foundation for accounting firms and fintechs building on tax.,B2B,"Artificial Intelligence, B2B, API, Infrastructure",,San Francisco,CA,US,,,,,0,yc
 c_b31b2a73758a,Trident,tridentsecurity.io,"Trident is the standard for modern day security. its an agentic pentester that chains vulnerabilities together like a real attacker mapping verified attack paths across AWS, Azure, GCP, web apps, and APIs. Run AI attacks and get fixes.
 
 Get started today: tridentsecurity.io",B2B,"Security, Cybersecurity, AI",,San Francisco,CA,US,,,,,0,yc
@@ -508,7 +551,6 @@ We train small, company-specific models that approve AI actions in real time. Th
 
 Companies will rent intelligence from AI labs or run open-source models to power their agents. They’ll own the models that keep their entire AI workforce acting in their interests. Decawork is building those models.",B2B,"Artificial Intelligence, B2B, Security, Infrastructure",,San Francisco,CA,US,,,,,0,yc
 c_675ddd49ab90,Grip,griprobotics.ai,"Grip is a robotics company building intelligent robotic systems for waste and recycling. We are starting with organic waste, where removing contaminants from messy, constantly changing streams remains difficult and highly manual. Our technology combines learning-based manipulation and custom hardware to identify and pick objects, learning from real-world operating data, including every successful and failed grasp, to become more reliable and adaptable over time. This helps waste operators reduce manual sorting, recover more valuable material, lower contamination, and deploy automation flexibly across facilities. Over time, Grip aims to expand beyond organics and build the intelligent manipulation layer for trash in general, making waste processing and the circular economy more efficient and scalable.",Industrials,"Robotic Process Automation, Sustainability",,Zürich,ZH,Non-US,,,,,0,yc
-c_2bd8be3cbf32,Buildbox,heybuildbox.com,"Buildbox helps product teams improve the human-agent experience. We analyze user intent, agent behavior, and outcomes to find where users get stuck or lose trust, then turn those findings into ranked, reproducible issues. ",B2B,"Analytics, Enterprise Software, AI",,San Francisco,CA,US,,,,,0,yc
 c_fb5c0747cd03,"Applied Electrodynamics, Inc.",ae-dyn.com,"Applied Electrodynamics builds imaging systems that see through solid matter. Our team previously co-invented the iPhone touchscreen and Nest learning thermostat. We’re starting in construction, helping teams map structural elements and utilities inside walls and ceilings. The same platform extends to security screening and cargo inspection. Our mission is to make the hidden physical world machine-readable across the entire electromagnetic spectrum.
 ",Industrials,"Hard Tech, Hardware, Construction, Manufacturing, Defense",,San Francisco,CA,US,,,,,0,yc
 c_49420ab58240,Gutgutgoose,gutgutgoose.com,"Most data companies pay for their data. Ours pays for itself.
@@ -675,7 +717,7 @@ c_a20e65a49c4d,Rapidfolio,rapidfolio.com,"Rapidfolio helps banks and fintechs fu
 Built by fintech founders and operators, Rapidfolio is on a mission to ensure banks and fintechs scale their customer base without adding another back-office head count.",B2B,"Artificial Intelligence, Fintech, SaaS, Enterprise, Automation",,San Francisco,CA,US,,,,,0,yc
 c_3bd7959510ed,Instaplay,instaplay.ai,"Over 25k creators and 130k players are on Instaplay, playing and making games. We work with the leading frontier labs to improve their game generation and coding capabilities. ",Consumer,"Gaming, AI",,San Francisco,CA,US,,,,,0,yc
 c_87ce5947eb7e,Nex,nex.ai,"Nex builds and runs the complex, high-volume GTM workflows that general-purpose agents struggle with. Built by ex-HubSpotters who ran its three largest customer platforms and backed by HubSpot founder Dharmesh Shah.",B2B,"AIOps, Workflow Automation, Sales",,San Francisco,CA,US,,,,,0,yc
-c_95f80df8e50d,Aktoria Robotics,aktoria.com,"Operate any robot, anywhere in the world.",Industrials,"Robotics, Enterprise Software",,San Francisco,CA,US,,,,,0,yc
+c_95f80df8e50d,Aktoria Robotics,aktoria.com,Enabling robot deployment & autonomy ,Industrials,"Robotics, Enterprise Software",,San Francisco,CA,US,,,,,0,yc
 c_7f4fd637689b,Rational,rational.to,"Rational is building the first accounting firm with no humans. It's entirely run by our AI employees, who go from client intake to doing the books to filing with the IRS. We secure 90% cost reduction, 24/7 support, and an overall seamless experience for businesses.",B2B,"Artificial Intelligence, Finance, B2B, Enterprise",,San Francisco,CA,US,,,,,0,yc
 c_7573b6ac3521,Illume Labs,illumelabs.ai,"Illume is a 24/7 AI personal health & longevity companion that connects your wearables, blood panels, and genomic data to text you personalized and actionable insights. We pull in your health data and fuse it into one secure model. You get daily text updates on what changed, what it means, and what to do next; conversational health Q&A like ""What should I do to improve my bloodwork?""; cross-data trend detection that catches patterns individual platforms miss; and a full platform to dig deeper, explore your health data, and text your Illume agent anytime. We're 3 MIT grads & friends, with experience at Windsurf, MIT CSAIL, Eli Lilly, & the Broad Institute. ",Healthcare,"Artificial Intelligence, Generative AI, Health Tech, Biotech, Health & Wellness",,San Francisco,CA,US,,,,,0,yc
 c_6cc031db0256,hardware intelligence,hardwareintelligence.ai,"Hardware Intelligence makes chip design tools that cut simulation and debugging time by an order of magnitude. When a chip test fails, engineers need a recording of every internal signal - a waveform. We’ve developed WaveZip, which captures waveforms 500x smaller with 200x less overhead, and Wave, which beats frontier models on industry chip debugging benchmarks. We’re Rishov Sarkar (Georgia Tech Ph.D. in chip simulation) and Athreya Anand (ex-Google, M.S. ML/AI), YC S26. https://hardwareintelligence.ai",B2B,"Artificial Intelligence, Developer Tools, Hardware, Enterprise Software, Semiconductors",,San Francisco,CA,US,,,,,0,yc
@@ -709,9 +751,7 @@ Once that model matches or beats Claude on a held-out evaluation, Orchestra star
 As more work is completed, the model keeps improving.
 
 We started Orchestra because we believe every company using AI should be accumulating intelligence, not accumulating API bills.",B2B,"Artificial Intelligence, Open Source, AI, ML",,San Francisco,CA,US,,,,,0,yc
-c_716e71df8b8f,Osseus,osseus.ai,"In an era of cheap intelligence, the most important application of AI will be to improving human health, globally. Osseus provides off-the-shelf or custom medical and biological datasets and RL environments to frontier labs.
-
-We work with hospitals and clinics to provide our EHR and deploy AI models within clinical workflows, with models from both our frontier lab partners and our own research.",B2B,"Artificial Intelligence, Robotics, B2B, Biotech, Healthcare",,,,,,,,,0,yc
+c_716e71df8b8f,Osseus,osseus.ai,"In an era of cheap intelligence, the most important application of AI will be to improving human health, globally. Osseus is building the frontier medical AI lab, starting with the clinical datasets, evaluations, and reinforcement learning environments that help AI labs train more capable, aligned, and safe models.",B2B,"B2B, Biotech, Healthcare, Data Engineering, AI",,,,,,,,,0,yc
 c_23daed5ee93e,Palette,palettelabs.com,"Palette is a self-improving AI-native media platform built by MIT computer scientists and multimodal researchers that unifies the creative workflow into a single generation engine. We’re building a fully autonomous production engine that generates, distributes, and optimizes interactive media for every brand and audience.",B2B,"Artificial Intelligence, Generative AI, Video",,San Francisco,CA,US,,,,,0,yc
 c_89f885d3df07,Alkera AI,alkera.ai,"Alkera is a data engineering/analysis/science agent that works in your IDE or CLI. If you’re tired of agents that produce false, or even dangerous, reports about your data, then Alkera is for you. Our agent is equipped with your data’s history and lineage, your team’s knowledge, and tailored plugins for data apps such as Snowflake and dbt. Simply install and connect your services to begin doing trusted agentic data work. We also offer VPC & on-prem deployment options for when data can't leave your boundary.",B2B,"Artificial Intelligence, Developer Tools, Data Science, Data Engineering, Enterprise Software",,San Francisco,CA,US,,,,,0,yc
 c_686ca110566c,Libra Robotics,librabots.com,"We’re building collaborative robotic crews for large-scale infrastructure projects, including solar farms and data centers.
@@ -757,9 +797,9 @@ The iOS app is designed around ambient listening and clear user control. Short m
 
 Moonshot is in early access. Join the waitlist to hear when access opens, read more about the team and product on the About page, or use the Contact page for a direct written response from the Moonshot team.
 
-Let's make it a Moonshot.",Consumer,"Consumer, Productivity, AI, AI Assistant",,Seattle,WA,US,,,,,0,yc
+Let's make it a Moonshot.",Consumer,"Consumer, Productivity, AI, AI Assistant",,San Francisco,CA,US,,,,,0,yc
 c_b6a21f847ee3,Zomma,zommalabs.com,"Zomma is building the AI workforce for financial services with computer-use agents that onboard like humans and scale like compute. Its agents handle KYC reviews, transaction alerts, and disputes on the same screens human analysts use, no integration.",B2B,"Artificial Intelligence, Robotic Process Automation, Finance, B2B, Workflow Automation",,San Francisco,CA,US,,,,,0,yc
-c_920d3eb4dfd7,OpenRelay,openrelay.inc,"Distributed, hardware-agnostic AI inference",B2B,Artificial Intelligence,,Seattle,WA,US,,,,,0,yc
+c_920d3eb4dfd7,OpenRelay,openrelay.inc,"Distributed, hardware-agnostic AI inference",B2B,Artificial Intelligence,,San Francisco,CA,US,,,,,0,yc
 c_43f2481e409b,Torus,usetorus.com,"Torus lets engineering firms and project owners build infrastructure 10x faster to reindustrialize America and the West. 
 
 We're working with multiple Fortune 500 companies to build critical infrastructure including data centers and critical energy installations. ",Industrials,"Construction, Energy, Enterprise Software, AI, Industrial",,San Francisco,CA,US,,,,,0,yc
@@ -804,7 +844,7 @@ Past two or three sessions, you become the bottleneck. Every session asks you so
 
 Maxxwell puts every session in one window and marks each one working, idle, or waiting on you. On top of that sits an orchestrator, a real coding-agent session of its own that reads the others and reports back. You talk to it instead of to twelve terminals. It tells you what landed, what it decided for you, and what actually needs your call.
 
-Every worker is your own tool, unmodified. Claude Code, Codex and Cursor Agent run in real terminal sessions you can attach to and take over at any point",B2B,"Artificial Intelligence, Developer Tools, SaaS, Infrastructure",,San Francisco,CA,US,,,,,0,yc
+Every worker is your own tool, unmodified. Claude Code, Codex and Cursor Agent run in real terminal sessions you can attach to and take over at any point",B2B,"Artificial Intelligence, Developer Tools, SaaS, Infrastructure",,Boston,MA,US,,,,,0,yc
 c_65bb7a14728e,Vestris,vestris.ai,"Vestris automates title processing end-to-end, from contract to close, so title shops can close more deals with fewer processors. Title insurance has famously high margins, but slow, manual processing is a constant pain — especially in today's bleeding housing market.",Real Estate and Construction,"Workflow Automation, Home Services",,San Francisco,CA,US,,,,,0,yc
 c_221e6ee8a7f7,Speko,speko.ai,"Speko is a router for voice models: one API key, and your voice agent runs on the speech-to-text, LLM, and text-to-speech models we measured as best for your language and use case. The measurements are public at benchmarks.speko.ai: we test new models the day they ship and re-route when the numbers change, so you rewrite nothing. We ran this bake-off by hand for four years at previous company, shipping production voice for Fortune 500s.",B2B,"Artificial Intelligence, Developer Tools, Conversational AI",,San Francisco,CA,US,,,,,0,yc
 c_47b60f38ee86,screenpipe,screenpipe.com,"Screenpipe records and learns how people in your company work and turns it into a searchable memory, documents, and AI agents. Model agnostic and data is stored on your device and/or where your team choose, source available.",B2B,"Artificial Intelligence, SaaS, B2B, Enterprise, Enterprise Software",,San Francisco,CA,US,,,,,0,yc
@@ -850,7 +890,7 @@ We were the first team to build an nginx RCE and the first to root Android 17. O
 
 “Audited by NebuSec” is a mark of serious security credibility: a signal to customers, investors, and partners that your product has been reviewed by the world’s best hackers.",B2B,"Artificial Intelligence, B2B, Security, Cybersecurity, Enterprise",,San Francisco,CA,US,,,,,0,yc
 c_1caa0cac8e70,Petrarch,petrarch.co,"Petrarch brings internal company data to frontier labs, starting with manufacturing and industrial companies. We source data including codebases, project files, and payments from bankruptcy courts, then de-identify and prepare the data for model training. 
-",B2B,"Marketplace, B2B, Data Engineering",,San Francisco,CA,US,,,,,0,yc
+",B2B,"Artificial Intelligence, Reinforcement Learning, B2B, Privacy, Data Engineering",,San Francisco,CA,US,,,,,0,yc
 c_050eb31bb236,Praxis Robotics,praxisrobotics.io,"Praxis captures the data physical AI is bottlenecked on: egocentric video, 3D scans, and multimodal capture from inside real industrial and residential environments. Embedded within publicly listed and unicorn-scale conglomerates, we reach 60k workers across 5 continents and 150+ environment types, supplying the real-world training data frontier labs and humanoid companies can't source anywhere else.",Industrials,"Hard Tech, Reinforcement Learning, Robotic Process Automation",,San Francisco,CA,US,,,,,0,yc
 c_149b848805d2,Inkbox,inkbox.ai,"For your AI agents to behave like teammates, we give them persistent identities with their own email, phone, and iMessage. We also provide them an agent-to-agent channel, so they can communicate for task delegation.",B2B,"Developer Tools, Infrastructure, AI",,San Francisco,CA,US,,,,,0,yc
 c_af876f52aedd,Edviro,edviroenergy.com,"Edviro builds AI that operates energy infrastructure. We connect to meters, HVAC systems, batteries, solar, and other energy equipment and continuously handle the work required to keep them efficient: detecting and diagnosing problems to forecasting demand, simulating fixes, creating work orders, coordinating maintenance, and controlling equipment where authorized. Our energy world models learn how each site behaves, choose the highest-value actions, and verify the results against real operational, meter, and billing data.",B2B,"Deep Learning, B2B, Energy",,San Francisco,CA,US,,,,,0,yc
@@ -990,7 +1030,7 @@ c_b5ddcb99cbba,Akkari,akkari.io,"Akkari runs the operational work from the first
 
 We are 2x YC founders who scaled OrderAhead (acquired by Square) to millions of users and BLADE to $1.2B+ in monthly trading volume.",B2B,,,San Francisco,CA,US,,,,,0,yc
 c_2b7e0fe3ec87,Care GP,caregp.com.au,Care GP is building AI agents to run operations for primary healthcare clinics,Healthcare,"SaaS, Healthcare, AI",,Sydney,NSW,Australia,,,,,0,yc
-c_476e41d43f3a,Zenbu,zenbu.dev,Zenbu is an extensible IDE for orchestrating coding agents. Shape it around exactly how you and your team work.,B2B,"Artificial Intelligence, Developer Tools, Open Source",,San Francisco,CA,US,,,,,0,yc
+c_476e41d43f3a,Zenbu,zenbu.dev,https://github.com/zenbu-labs/terminal-browser,B2B,"Developer Tools, Open Source, AI",,San Francisco,CA,US,,,,,0,yc
 c_828d64a63357,RealPact,realpact.ai,"RealPact builds AI agents that handle the paperwork behind real estate transactions. They find property records like deeds, tax records, permits, parcel data, and MLS information, then use that data to fill out contracts, organize documents, track deadlines, and help brokerages close deals faster.
 
 We are starting by automating transactions and will expand into other parts of brokerage operations. Much of the software used across the real estate industry is outdated. With today’s advances in AI, we can build agents that handle this operational work and create modern software around how brokerages actually work.
@@ -1065,7 +1105,7 @@ c_1a45cef7c807,BentoLabs AI,bentolabs.ai,"BentoLabs is the monitoring and learni
 
 As more teams deploy agents, keeping them reliable in production becomes mission-critical. Bento sits directly in the production loop and gives teams the operational leverage required to scale agent ecosystems without scaling human firefighting alongside them. The result is a system that turns opaque agents into agents that can be monitored, debugged, and improved continuously.
 
-The founders learned this problem at Emergent (YC S24), where they built and operated production coding agents used by 5M+ users. Abhinav was hire #1 and helped Emergent hit SWE-Bench #1 and scale from $0 to $100M ARR in just 8 months. Kaushik was hire #2, led full-stack engineering at Emergent, and was key to building the infrastructure that made production agents reliable, observable, and debuggable. Bento's self-learning engine has also lifted ARC-AGI-3 (internal) by 2.6x and Terminal-Bench 2.0 (internal) from 42.2% to 52.4% pass@1 with the same model, tools, and budget.",B2B,,,San Francisco,CA,US,,,,,0,yc
+The founders learned this problem at Emergent (YC S24), where they built and operated production coding agents used by 5M+ users. Abhinav was hire #1 and helped Emergent hit SWE-Bench #1 and scale from $0 to $100M ARR in just 8 months. Kaushik was hire #2, led full-stack engineering at Emergent, and was key to building the infrastructure that made production agents reliable, observable, and debuggable. Bento's self-learning engine has also lifted ARC-AGI-3 (internal) by 2.6x and Terminal-Bench 2.0 (internal) from 42.2% to 52.4% pass@1 with the same model, tools, and budget.",B2B,,,Bengaluru,KA,Non-US,,,,,0,yc
 c_d09e86499ccd,Soria,soriaanalytics.com,"Soria is an AI-native Financial Terminal for investors who specialize in a particular sector, starting with healthcare. Our agents convert hundreds of the most important public and private sources into an always-on financial model, reviewed by domain experts and delivered to hedge funds, banks, and asset managers through a terminal UI, MCP, API, warehouse sync, and research feed. Unlike our competitors, we own the data layer and expand bottom-up, one sector at a time - additionally our agents proactively do research on behalf of our clients without them lifting a finger or sharing any data.",Fintech,,,New York City,NY,US,,,,,0,yc
 c_4d8fed2f4e8d,Uno Wallet,myunowallet.com,"We are changing the way that people pay...
 
@@ -1087,7 +1127,7 @@ c_8aa2c28c110f,Codag,codag.ai,"Codag compresses tool call outputs before agents 
 
 Govern and see analytics on agent dollars across all model providers and internal agents. 
  ",B2B,Developer Tools,,San Francisco,CA,US,,,,,0,yc
-c_8af712426e8f,RightNow,runinfra.ai,"RightNow AI is a research lab building GPU infrastructure that lets teams own their AI stack instead of depending on closed-source APIs. Our platform RunInfra takes any HuggingFace model, auto-generates optimized GPU kernels, and deploys it serverlessly with pay-per-token pricing
+c_8af712426e8f,RightNow,runinfra.ai,"RightNow AI is a research lab for GPU kernel optimization. Our platform RunInfra serves top open-source models optimized for AI agents at a fraction of the cost of closed-source APIs
 
 RightNow AI lab: https://rightnowai.co
 RunInfra platform: https://runinfra.ai.",B2B,,,San Francisco,CA,US,,,,,0,yc
@@ -1177,7 +1217,7 @@ Aseon Pods are robotic micro-depots that can be deployed directly within operati
 Founded by the team behind Pushme, which deployed 5,000 mobility infrastructure locations across 40 cities before its acquisition by TIER-Dott, Aseon is funded and building product in Redwood City for pilot deployment with major autonomous vehicle operators.",Industrials,,,San Francisco,CA,US,,,,,0,yc
 c_8bd81f28a11a,Madrone,madrone.cool,"Madrone builds cooling systems for data centers. In Texas, where most new sites are, Madrone can cool using 30% less power and water, thanks to novel dew-point cooling technology. ",Industrials,,,San Francisco,CA,US,,,,,0,yc
 c_87f72bfeb425,The Company Company,thecompany.company,The Company Company builds the agent and the infrastructure to run companies.,B2B,,,San Francisco,CA,US,,,,,0,yc
-c_1cee83cca408,flowscope,flowscope.com,"flowscope is an AI-native transformation firm that deploys agents to map, optimize, and automate companies’ processes end to end without human intervention; doing what consulting firms charge millions for at a fraction of the cost and time.",B2B,,,San Francisco,CA,US,,,,,0,yc
+c_1cee83cca408,flowscope,flowscope.com,"flowscope is an AI implementation firm that deploys agents to map, optimize, and automate companies’ processes end to end",B2B,,,San Francisco,CA,US,,,,,0,yc
 c_ff4f744b5052,CharacterQuilt,characterquilt.com,"CharacterQuilt builds computer use agents to deploy enterprise marketing campaigns. 
 
 Marketers today don’t actually do much marketing at all.
@@ -1255,7 +1295,7 @@ Netter brings technical capacity to companies that don't have an army of data en
 - A nursing home group was chasing unpaid invoices manually across disconnected tools. Netter centralized the collection workflows, automated reminders, real-time visibility, task routing.
 - A retail chain had years of loyalty card data sitting unused. Netter cross-referenced it with public demographic data to build precise customer segments and trigger the right promotions to the right people.
 ",B2B,,,Paris,Île-de-France,France,,,,,0,yc
-c_207826afac16,Scope,tryscope.app,"Scope is the system companies use to measure and improve how agents discover, interact and use their product.
+c_f8a8252ee6f4,Scope,tryscope.com,"Scope is the system companies use to measure and improve how agents discover, interact and use their product.
 
 As more products gets used through AI agents like Claude Code, Codex, Cursor, and similar agents, agents are starting to influence which tools get chosen, how they get set up, and whether they keep getting used. Most companies still cannot see that process clearly.
 
@@ -1305,54 +1345,3 @@ Our platform creates one clear source of truth across the plant. It connects the
 The result is fewer surprises, faster decisions, and less time spent piecing together information across disconnected tools.
 
 We work with manufacturers, utilities, energy companies, and other industrial operators modernizing existing facilities or building new ones.",Industrials,"Workflow Automation, Monitoring, Industrial",,San Francisco,CA,US,,,,,0,yc
-c_e32a7e77bdb8,Andco,useandco.com,"Our agents retrieve and synthesize all the records law firms need to start a personal injury case. We get police reports, open insurance claims, and retrieve all the medical records and bills needed to build a case.",B2B,,,San Francisco,CA,US,,,,,0,yc
-c_5170a1caeff8,Ornadyne,ornadyne.com,"Ornadyne builds flapping-wing drones for reconnaissance that look, fly, and sound like birds.
-
-Today’s drones are easy to detect acoustically, visually, and electronically. As counter-UAS systems improve, traditional quadcopters and fixed-wing UAS systems are becoming increasingly ineffective for close-range surveillance.  
-
-Flapping-wing aircraft have existed for years, but have lacked the performance, endurance, and control required for real-world deployment. We’re changing that by engineering a high-performance, stealth-optimized system built from first principles for efficiency, autonomy, and reliable field use.
-
-The final frontier of surveillance won’t look like machines; it will look like wildlife already in the sky. 
-
-Maybe birds aren't real?",Industrials,"Hard Tech, Robotics, Drones, Aerospace, Defense",,Los Angeles,CA,US,,,,,0,yc
-c_c6b0c10cee98,ReasonBlocks,reasonblocks.com,"ReasonBlocks turns your agents’ production traces into specialized models, delivering 10× cheaper inference without sacrificing performance. We handle training, routing, and serving.",B2B,,,San Francisco,CA,US,,,,,0,yc
-c_837e8e84b0ab,Memory Store,memory.store,"One memory for your team's agents. 
-
-Turn every meeting, Claude session, and Slack chat into context your team and agents share.",B2B,,,San Francisco,CA,US,,,,,0,yc
-c_93b39161ccab,Chert,trychert.com,"Chert provides the infrastructure for businesses to automate conversations over iMessage. We’re already working with B2C startups, customer experience teams, and sales teams to reach end users through trusted and conversational messaging. ",B2B,,,New York City,NY,US,,,,,0,yc
-c_c794cda243a3,GodHands,godhands.dev,"GodHands makes employee transitions seamless and ensures that critical knowledge is captured for posterity. We reconstruct any employee’s work in days from the systems where they did it. You can see what depends on them, hand their role over, and keep their work running after they leave. 
-",B2B,"Enterprise, Operations",,San Francisco,CA,US,,,,,0,yc
-c_92a510487ab6,Collar,usecollarai.com,"Collar helps lean investor relations teams reach the right investors.
-We automate earnings preparation, track peers and market developments, and target investors who best fit each company.
-CFOs and IR heads can actually focus on building relationships and getting their company’s story heard.",B2B,"Artificial Intelligence, Finance",,Singapore,Singapore,Singapore,,,,,0,yc
-c_bc0ed4db4b76,Dreach,dreach.ai,"dreach watches your ATS and your network. when someone starts hiring, you get the manager who owns the role and your warmest way in.",B2B,"B2B, Recruiting, Messaging, Sales Enablement",,San Francisco,CA,US,,,,,0,yc
-c_1db55d2d7093,Archer,archermoney.com,"Archer is the financial infrastructure for the AI data economy.
-
-We’re building global payouts, stablecoin banking, and yield infrastructure for the companies supplying data to frontier AI labs.
-
-As demand for high-quality data grows, millions of contributors around the world are generating, labeling, validating, and improving the datasets that power modern AI systems. Yet the financial infrastructure behind these platforms remains slow, fragmented, and expensive.
-
-Archer enables data marketplaces, AI labor platforms, and reinforcement learning environment providers to onboard workers globally, pay contributors instantly, and earn yield on idle balances.
-
-Today, companies use Archer to manage contributor earnings, global payouts, and treasury operations across hundreds of countries and payment corridors.
-
-We believe the next generation of AI companies will need purpose-built financial infrastructure. Just as cloud providers became the backbone of software, Archer is building the financial layer for the global workforce powering artificial intelligence.",Fintech,"Crypto / Web3, Neobank, AI",,New York City,NY,US,,,,,0,yc
-c_11a26f749e76,Revnu,revnu.com,"Revnu is your AI growth team. Built to run your whole GTM while you focus on building, Revnu is the best way to grow with AI. 
-
-Our agents run every growth channel: outbound, ads, SEO, social, etc all on one shared intelligence, so learnings from one channel automatically improve all the others.
-
-You keep shipping. We run the business.
-",B2B,"B2B, Advertising, AI",,Manchester,England,United Kingdom,,,,,0,yc
-c_eb63da2ef841,GovGuard,govguard.com,"GovGuard is building AI agents that automate government workflows, starting with FOIA requests.
-
-Today, public records teams still spend hours searching for responsive records and applying redactions. Many offices still redact sensitive information line by line with a sharpie. Local governments spend billions processing these requests, and if a city misses a legal deadline, it can be sued for failing to comply with public records law.",Government,GovTech,,San Francisco,CA,US,,,,,0,yc
-c_3a969717449a,Huscarl,huscarl.io,"Huscarl is building an autonomous AI actuary to enable self-insurance for corporations.
-
-Large companies use insurance subsidiaries (""captives"") to self-insure their risks. Some of these captives are larger than regional insurers. We provide them the actuarial and modeling layer to operate and grow.
-
-We're building a future where self-insurance is the default, and commercial insurance the exception. This is the best way to solve the inefficiencies of the $1T corporate insurance market.",Fintech,,,San Francisco,CA,US,,,,,0,yc
-c_4a641aeda1f9,Juno,junocompanion.com,"Juno is an AI personal health assistant for the 1B+ people living with chronic illness.
-
-Launched in October, Juno now supports 150,000+ patients globally.",Healthcare,,,San Francisco,CA,US,,,,,0,yc
-c_5a1658af31e1,RentAHuman,rentahuman.ai,Marketplace for AI agents to hire humans.,Consumer,,,San Francisco,CA,US,,,,,0,yc
-c_06eec6ed2b3e,Archal,archal.ai,"Archal provisions sandboxes with the API environments your CI, tests, and evals need. Your coding agent can start the sandbox & environments, connect to your API integrations, run tests, and inspect state changes. Sandboxes and environments are startable within seconds and take milliseconds to reset.",B2B,"Artificial Intelligence, Developer Tools, API, Infrastructure",,San Francisco,CA,US,,,,,0,yc
