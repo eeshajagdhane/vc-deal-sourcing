@@ -6,13 +6,6 @@
   },
   "similar_companies": [
     {
-      "name": "Lark",
-      "industry_primary": "Industrials",
-      "website_domain": "larkagents.com",
-      "score": 40.61,
-      "similarity": 0.656000018119812
-    },
-    {
       "name": "Amorphic Labs",
       "industry_primary": "B2B",
       "website_domain": "agentmuxer.com",
@@ -20,11 +13,11 @@
       "similarity": 0.6539999842643738
     },
     {
-      "name": "Trope",
-      "industry_primary": "B2B",
-      "website_domain": "trope.ai",
-      "score": 44.16,
-      "similarity": 0.6449999809265137
+      "name": "Lark",
+      "industry_primary": "Industrials",
+      "website_domain": "larkagents.com",
+      "score": 39.19,
+      "similarity": 0.6349999904632568
     },
     {
       "name": "Grep AI",
@@ -37,8 +30,15 @@
       "name": "horizontal.",
       "industry_primary": "Industrials",
       "website_domain": "horizontal-tech.com",
-      "score": 43.57,
+      "score": 33.57,
       "similarity": 0.6299999952316284
+    },
+    {
+      "name": "Atlia",
+      "industry_primary": "Real Estate and Construction",
+      "website_domain": "atlia.com",
+      "score": 47.23,
+      "similarity": 0.6200000047683716
     }
   ]
 }
